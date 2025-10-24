@@ -1,0 +1,346 @@
+Name,Graph_Index
+Kyasanur Forest disease,0
+Actinomycosis,1
+O'nyong-nyong fever,2
+Escherichia coli meningitis,3
+Rat-bite fever,4
+Bolivian hemorrhagic fever,5
+Talaromycosis,6
+Staphylococcal infection,7
+Respiratory syncytial virus infection,8
+Sandfly fever,9
+Lobomycosis,10
+Oropouche fever,11
+Cowpox,12
+Chromomycosis,13
+Ochrobactrum anthropi infection,14
+Erysipeloid,15
+Venezuelan hemorrhagic fever,16
+Brazilian hemorrhagic fever,17
+Enteroaggregative Escherichia coli (EAEC) infection,18
+Lymphocytic choriomeningitis,19
+Enteritis due to Norovirus,20
+Pneumocystis pneumonia,21
+Viral hepatitis,22
+Colorado tick fever,23
+Parainfluenza infection,24
+Ehrlichia ewingii infection,25
+Scabies,26
+Arcobacter butzleri infection,27
+Erysipelas,28
+Scedosporiosis,29
+Common cold,30
+Gonococcal infection,31
+Rapidly growing mycobacteria infection,32
+Tularemia,33
+Filariasis,34
+Colonic spirochetosis,35
+Scrub typhus,36
+Spotted fever,37
+Typhoid fever,38
+Rabies,39
+Human metapneumovirus infection,40
+Arthropod-borne viral fever,41
+Capnocytophaga ochracea infection,42
+Lymphogranuloma venereum,43
+Yellow fever,44
+Simkania negevensis infection,45
+Progressive multifocal leukoencephalopathy,46
+Ascariasis,47
+Molluscum contagiosum,48
+Methicillin-sensitive Staphylococcus aureus (MSSA) infection,49
+Trichinosis,50
+Mosquito-borne viral encephalitis,51
+Mycoplasma pneumonia,52
+Cimicosis,53
+Giant kidney worm infection,54
+Sporotrichosis,55
+Cholera,56
+Epidemic typhus,57
+Mycobacterium avium complex (MAC) pulmonary disease,58
+Brucellosis,59
+Necrotizing fasciitis,60
+Multidrug-resistant Pseudomonas aeruginosa infection,61
+Meningococcal infection,62
+Viral gastroenteritis,63
+Pediculosis,64
+Vancomycin-resistant enterococci infection,65
+Trichosporonosis,66
+Chlamydia infection,67
+Lyssavirus infection,68
+Pentastomiasis,69
+Periodontal disease,70
+Enterobiasis,71
+Adenovirus infection,72
+Methicillin-resistant Staphylococcus epidermidis (MRSE) infection,73
+South American hemorrhagic fever,74
+Mosquito-borne viral fever,75
+Histoplasmosis,76
+Streptococcus suis infection,77
+Acute poliomyelitis,78
+Trachoma,79
+Group A streptococcal pharyngitis,80
+Angiostrongyliasis,81
+Syphilis,82
+Influenza,83
+Capillariasis,84
+Lyme borreliosis,85
+Cysticercosis,86
+Penicillin-resistant Streptococcus pneumoniae infection,87
+Herpes simplex virus infection,88
+Diphyllobothriasis,89
+Donovanosis,90
+Henipavirus infection,91
+Gordonia bronchialis infection,92
+Mumps,93
+Giardiasis,94
+Propionibacterium acnes infection,95
+Gas gangrene,96
+Multidrug-resistant Acinetobacter infection,97
+Vancomycin-resistant Staphylococcal aureus (VRSA) infection,98
+Pseudomonas aeruginosa infection,99
+Vibrio parahaemolyticus infection,100
+Pseudomembranous colitis,101
+Sparganosis,102
+Enterobacter infection,103
+Mucormycosis,104
+Liver fluke disease,105
+Candidiasis,106
+Bordetella bronchiseptica infection,107
+Ross River fever,108
+Bordetella hinzii infection,109
+Hafnia alvei infection,110
+Vibrio furnissii infection,111
+Hantavirus pulmonary syndrome,112
+Bordetella holmesii infection,113
+Cryptococcosis,114
+Avian influenza,115
+Trichuriasis,116
+Clonorchiasis,117
+Carbapenem-resistant bacterial infection,118
+Oesophagostomiasis,119
+Whipple disease,120
+Opisthorchiasis,121
+Leptospirosis,122
+Foodborne trematodiasis,123
+Aerococcus urinae infection,124
+Klebsiella infection,125
+Entomophthoramycosis,126
+Pasteurellosis,127
+Botulism,128
+Acute necrotizing ulcerative gingivitis,129
+Methicillin-resistant Staphylococcal aureus (MRSA) infection,130
+Tetanus,131
+Vibrio vulnificus infection,132
+Eastern equine encephalitis,133
+Brevundimonas infection,134
+Tick-borne lymphadenopathy,135
+Hepatitis C,136
+Acetobacter infection,137
+Hepatitis D,138
+Rocio viral encephalitis,139
+Bacillus thuringiensis infection,140
+Enterotoxigenic Escherichia coli (ETEC) infection,141
+Granulibacter infection,142
+Phaeohyphomycosis,143
+Zygomycosis,144
+Cystoisosporiasis,145
+Bunyamwera fever,146
+Asymptomatic bacteriuria,147
+Brazilian purpuric fever,148
+Laribacter hongkongensis infection,149
+Sarcocystosis,150
+Sphingomonas paucimobilis infection,151
+Chromobacterium violaceum infection,152
+Blastocystosis,153
+Agrobacterium radiobacter infection,154
+Japanese encephalitis,155
+Hepatitis E,156
+Hepatitis B,157
+Western equine encephalitis,158
+Phenylobacterium infection,159
+Alkhumra hemorrhagic fever,160
+Loiasis,161
+Encephalitozoon infection,162
+Dental caries,163
+Uncomplicated urinary tract infection,164
+Pantoea ananatis infection,165
+Scarlet fever,166
+Vaccinia,167
+Marburg disease,168
+Methylobacterium infection,169
+Myiasis,170
+Yersiniosis,171
+Primary amoebic meningoencephalitis (PAM),172
+Sennetsu neorickettsiosis,173
+Severe acute respiratory syndrome,174
+Coccidioidomycosis,175
+"Hand, foot and mouth disease",176
+West Nile fever,177
+Pneumococcal disease,178
+Aspergillosis,179
+Aggressive periodontitis,180
+Argentine hemorrhagic fever,181
+Mayaro fever,182
+Orf,183
+Saint Louis encephalitis,184
+Achromobacter xylosoxidans infection,185
+Human monocytic ehrlichiosis,186
+Helicobacter cinaedi infection,187
+Bacterial vaginosis,188
+Erythema infectiosum,189
+Shigellosis,190
+Tungiasis,191
+COVID-19,192
+Toxoplasmosis,193
+Providencia stuartii infection,194
+Plague,195
+Caulobacter infection,196
+Venezuelan equine encephalitis,197
+Enteroinvasive Escherichia coli (EIEC) infection,198
+Paracoccidioidomycosis,199
+Dermatophytosis,200
+Chikungunya fever,201
+Rift Valley fever,202
+Epidemic keratoconjunctivitis,203
+Yaws,204
+Herpangina,205
+Proteus mirabilis infection,206
+B virus infection,207
+Paragonimiasis,208
+Monkeypox,209
+Anisakiasis,210
+Phthiriasis,211
+Viral wart,212
+Tick-borne viral encephalitis,213
+Babesiosis,214
+Tuberculosis,215
+Toxocariasis,216
+Stenotrophomonas maltophilia infection,217
+Hemorrhagic fever with renal syndrome,218
+Corynebacterium ulcerans infection,219
+Bacteroides infection,220
+Nocardiosis,221
+Legionellosis,222
+Foodborne Bacillus cereus intoxication,223
+Glanders,224
+Paratyphoid fever,225
+Helicobacter pylori infection,226
+Trench fever,227
+Leprosy,228
+Epidemic myalgia,229
+Tsukamurella infection,230
+Rotaviral enteritis,231
+Gnathostomiasis,232
+Diphtheria,233
+Non-chlamydial non-gonococcal urethritis,234
+Aggregatibacter aphrophilus infection,235
+Mansonelliasis,236
+Dengue,237
+Lactococcus garvieae infection,238
+Smallpox,239
+Hookworm disease,240
+Lassa fever,241
+Bordetella petrii infection,242
+Capnocytophaga canimorsus infection,243
+Pertussis,244
+Bartonellosis,245
+Actinomycetoma,246
+Campylobacter infection,247
+Salmonellosis,248
+Nontuberculous mycobacterial infection,249
+Anthrax,250
+Melioidosis,251
+Q fever,252
+Listeriosis,253
+Septic arthritis,254
+Rhodococcus equi infection,255
+Acne vulgaris,256
+Foodborne Clostridium perfringens intoxication,257
+Serratia infection,258
+Haemophilus influenzae infection,259
+Trichostrongyliasis,260
+Psittacosis,261
+Dracunculiasis,262
+Pharyngoconjunctival fever,263
+Condyloma acuminatum,264
+Cytomegalovirus infection,265
+Onchocerciasis,266
+Rhinosporidiosis,267
+African trypanosomiasis,268
+Dicrocoeliasis,269
+Rubella,270
+Saccharomonospora viridis infection,271
+Malaria,272
+Achromobacter xylosoxidans keratitis,273
+Leishmaniasis,274
+Lymphatic filariasis,275
+Varicella,276
+Postherpetic neuralgia,277
+Severe fever with thrombocytopenia syndrome,278
+Moraxella catarrhalis infection,279
+Chancroid,280
+Citrobacter infection,281
+Multidrug-resistant tuberculosis,282
+Bacterial endocarditis,283
+Enterococcal infection,284
+Viridans group streptococcal infection,285
+Streptococcal infection,286
+Chagas disease,287
+Acute encephalitis,288
+Enterovirus infection,289
+Shewanella infection,290
+Infectious mononucleosis,291
+Balantidiasis,292
+Dipylidiasis,293
+Ralstonia pickettii infection,294
+Amoebiasis,295
+Aeromonas infection,296
+Measles,297
+Anaerobic infection,298
+Exanthema subitum,299
+Dientamoebiasis,300
+Middle East respiratory syndrome,301
+Acanthamoebiasis,302
+Cryptosporidiosis,303
+Invasive streptococcal disease,304
+Buruli ulcer,305
+Schistosomiasis,306
+Acute hemorrhagic conjunctivitis,307
+Syngamosis,308
+Chlamydial pneumonia,309
+Zika fever,310
+Baylisascariasis,311
+Trichomoniasis,312
+Tinea versicolor,313
+Human granulocytic anaplasmosis,314
+Bejel,315
+Uropathogenic Escherichia coli (UPEC) infection,316
+Murray Valley encephalitis,317
+Taenia saginata infection,318
+Crimean-Congo hemorrhagic fever,319
+Paracoccus yeei infection,320
+Eumycetoma,321
+Hendra virus infection,322
+Enterohemorrhagic Escherichia coli (EHEC) infection,323
+Ebola disease,324
+Strongyloidiasis,325
+Helicobacter heilmannii infection,326
+HIV infection,327
+Photorhabdus asymbiotica infection,328
+Intestinal fluke infection,329
+Hymenolepiasis,330
+Nipah virus infection,331
+Morganella morganii infection,332
+Relapsing fever,333
+Novosphingobium aromaticivorans infection,334
+Blastomycosis,335
+Rickettsialpox,336
+Enteropathogenic Escherichia coli (EPEC) infection,337
+Hepatitis A,338
+La Crosse encephalitis,339
+Human echinococcosis,340
+Bacterial conjunctivitis,341
+Pinta,342
+Omsk hemorrhagic fever,343
+Arenaviral hemorrhagic fever,344

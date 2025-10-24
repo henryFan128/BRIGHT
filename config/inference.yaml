@@ -1,0 +1,20 @@
+path:
+  graph_data: '../data/raw/full_graph_data.pt'
+  model_path: '../ckpt/BIGHT_Ratio1.pt'
+
+mapping:
+  disease_mapping: '../data/mapping/disease_name_to_index.csv'
+  drug_mapping: '../data/mapping/drug_name_to_index.csv'
+
+model_params:
+  hidden_channels: 512
+  out_channels: 256
+  num_hgt_layers: 4
+  num_hgt_heads: 8
+
+other_params:
+  disease: "Methicillin-resistant Staphylococcal aureus (MRSA) infection"
+  top_k: 10
+  output: '../data/recommendations/MRSA_recommendations.csv'
+  use_raw_scores: True
+  verbose: True

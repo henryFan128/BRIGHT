@@ -1,0 +1,4484 @@
+Name,Graph_Index
+doxycycline,0
+bacitracin,1
+ribavirin,2
+ketoconazole,3
+prednisone,4
+atovaquone,5
+voriconazole,6
+cefixime,7
+amoxicillin,8
+mebendazole,9
+amphotericin b,10
+lindane,11
+ivermectin,12
+malathion,13
+linezolid,14
+itraconazole,15
+clarithromycin,16
+erythromycin,17
+albendazole,18
+penciclovir,19
+famciclovir,20
+acyclovir,21
+trifluridine,22
+ganciclovir,23
+tinidazole,24
+nitazoxanide,25
+fidaxomicin,26
+triclabendazole,27
+miconazole,28
+anidulafungin,29
+terconazole,30
+flucytosine,31
+fluconazole,32
+posaconazole,33
+praziquantel,34
+sofosbuvir,35
+adefovir dipivoxil,36
+telbivudine,37
+lamivudine,38
+entecavir,39
+nitrofurantoin,40
+acetohydroxamic acid,41
+levofloxacin,42
+trimethoprim,43
+metronidazole,44
+ciprofloxacin,45
+luliconazole,46
+tavaborole,47
+griseofulvin,48
+ciclopirox,49
+isoniazid,50
+hydrocortisone,51
+ethionamide,52
+methylprednisolone,53
+pyrazinamide,54
+dexamethasone,55
+prednisolone,56
+lansoprazole,57
+dapsone,58
+adapalene,59
+tazarotene,60
+artesunate,61
+miltefosine,62
+pregabalin,63
+gabapentin enacarbil,64
+gabapentin,65
+daptomycin,66
+nifurtimox,67
+didanosine,68
+cobicistat,69
+zidovudine,70
+etravirine,71
+ritonavir,72
+stavudine,73
+emtricitabine,74
+nevirapine,75
+levamisole,76
+acetaminophen,77
+capsaicin,78
+cyclosporine,79
+doxorubicin,80
+dronabinol,81
+estradiol,82
+indomethacin,83
+isotretinoin,84
+phenobarbital,85
+progesterone,86
+sulindac,87
+sunitinib,88
+temozolomide,89
+tetracycline,90
+thiabendazole,91
+furazolidone,92
+caspofungin,93
+ceftazidime,94
+diclofenac,95
+mannitol,96
+meropenem,97
+micafungin,98
+moxifloxacin,99
+acetylcysteine,100
+adenosine,101
+allopurinol,102
+amiloride,103
+aminoglutethimide,104
+amiodarone,105
+amodiaquine,106
+amphetamine,107
+aripiprazole,108
+atorvastatin,109
+azacitidine,110
+azathioprine,111
+bortezomib,112
+budesonide,113
+calcitriol,114
+carbamazepine,115
+carboplatin,116
+carvedilol,117
+celecoxib,118
+chloroquine,119
+chlorpheniramine,120
+chlorpromazine,121
+cholecalciferol,122
+cimetidine,123
+clofibrate,124
+clonidine,125
+clopidogrel,126
+clozapine,127
+cocaine,128
+colchicine,129
+cyclophosphamide,130
+cysteamine,131
+dacarbazine,132
+dactinomycin,133
+dantrolene,134
+dasatinib,135
+decitabine,136
+digoxin,137
+dinoprostone,138
+diosmin,139
+donepezil,140
+dydrogesterone,141
+edaravone,142
+enalapril,143
+ethambutol,144
+etoposide,145
+famotidine,146
+fenofibrate,147
+fluorouracil,148
+fluoxetine,149
+flurbiprofen,150
+flutamide,151
+fulvestrant,152
+gemcitabine,153
+gemfibrozil,154
+gliclazide,155
+glucosamine,156
+glyburide,157
+granisetron,158
+ibuprofen,159
+irbesartan,160
+irinotecan,161
+ketamine,162
+ketoprofen,163
+leflunomide,164
+lisinopril,165
+losartan,166
+lovastatin,167
+mechlorethamine,168
+melatonin,169
+metformin,170
+methimazole,171
+methotrexate,172
+metoclopramide,173
+mifepristone,174
+minocycline,175
+mirtazapine,176
+mitomycin,177
+morphine,178
+naproxen,179
+niacin,180
+nicorandil,181
+nicotine,182
+nitroglycerin,183
+omeprazole,184
+oxaliplatin,185
+paclitaxel,186
+pantoprazole,187
+pentobarbital,188
+pentoxifylline,189
+phenytoin,190
+pioglitazone,191
+piroxicam,192
+ranitidine,193
+rifaximin,194
+rimonabant,195
+rosiglitazone,196
+scopolamine,197
+sevoflurane,198
+sirolimus,199
+spironolactone,200
+streptozocin,201
+sulfamethoxazole,202
+sulfapyridine,203
+sulfasalazine,204
+sumatriptan,205
+tacrolimus,206
+tamoxifen,207
+taurine,208
+telmisartan,209
+testosterone,210
+thalidomide,211
+theophylline,212
+thimerosal,213
+ticlopidine,214
+tramadol,215
+trimetazidine,216
+verapamil,217
+vincristine,218
+vitamin a,219
+zonisamide,220
+caffeine,221
+desipramine,222
+felodipine,223
+ifosfamide,224
+isradipine,225
+lamotrigine,226
+letrozole,227
+tegafur,228
+thioridazine,229
+tranylcypromine,230
+baclofen,231
+diazepam,232
+labetalol,233
+midazolam,234
+propofol,235
+alfentanil,236
+alprazolam,237
+amitriptyline,238
+amoxapine,239
+astemizole,240
+axitinib,241
+bepridil,242
+bosentan,243
+bromocriptine,244
+buprenorphine,245
+bupropion,246
+buspirone,247
+butorphanol,248
+carmustine,249
+cefaclor,250
+chloramphenicol,251
+citalopram,252
+clindamycin,253
+clobazam,254
+clomipramine,255
+clonazepam,256
+codeine,257
+crizotinib,258
+cytarabine,259
+deferoxamine,260
+dextroamphetamine,261
+dextromethorphan,262
+dextropropoxyphene,263
+dihydroergotamine,264
+diltiazem,265
+disopyramide,266
+docetaxel,267
+dopamine,268
+dronedarone,269
+epinephrine,270
+eplerenone,271
+estazolam,272
+estrone,273
+etoricoxib,274
+ezetimibe,275
+felbamate,276
+fenoldopam,277
+fentanyl,278
+flunitrazepam,279
+fluvastatin,280
+gefitinib,281
+haloperidol,282
+hydralazine,283
+hydrocodone,284
+hydroxychloroquine,285
+imipramine,286
+ivabradine,287
+lapatinib,288
+levodopa,289
+levorphanol,290
+lidocaine,291
+loperamide,292
+lopinavir,293
+loratadine,294
+loxapine,295
+meclizine,296
+mefloquine,297
+methadone,298
+methyltestosterone,299
+metolazone,300
+metoprolol,301
+metyrapone,302
+moricizine,303
+nafcillin,304
+naloxone,305
+naltrexone,306
+nateglinide,307
+nelfinavir,308
+nifedipine,309
+nimodipine,310
+nortriptyline,311
+ofloxacin,312
+ondansetron,313
+orphenadrine,314
+oxazepam,315
+oxcarbazepine,316
+oxycodone,317
+oxymorphone,318
+phenelzine,319
+phenylephrine,320
+pravastatin,321
+prazosin,322
+propranolol,323
+pyrantel,324
+quinidine,325
+rifabutin,326
+risperidone,327
+rivaroxaban,328
+roxithromycin,329
+sertraline,330
+simeprevir,331
+sorafenib,332
+succimer,333
+sulpiride,334
+tacrine,335
+tapentadol,336
+temazepam,337
+terbinafine,338
+terfenadine,339
+tolcapone,340
+topiramate,341
+topotecan,342
+trazodone,343
+triazolam,344
+triclosan,345
+valsartan,346
+vancomycin,347
+furosemide,348
+panobinostat,349
+tolvaptan,350
+diethylcarbamazine,351
+acarbose,352
+alprostadil,353
+amikacin,354
+amlodipine,355
+apomorphine,356
+atenolol,357
+atropine,358
+betaine,359
+betamethasone,360
+bisoprolol,361
+busulfan,362
+captopril,363
+carbidopa,364
+cefepime,365
+cefotaxime,366
+ceftriaxone,367
+cefuroxime,368
+celiprolol,369
+chlorpropamide,370
+cilostazol,371
+cladribine,372
+colistin,373
+deferiprone,374
+demeclocycline,375
+desflurane,376
+desogestrel,377
+diazoxide,378
+diflunisal,379
+diphenhydramine,380
+dipyridamole,381
+doxazosin,382
+doxepin,383
+dutasteride,384
+enalaprilat,385
+epoprostenol,386
+etodolac,387
+everolimus,388
+febuxostat,389
+fenoprofen,390
+finasteride,391
+fludrocortisone,392
+fomepizole,393
+fosfomycin,394
+fosinopril,395
+goserelin,396
+hydrochlorothiazide,397
+hydroxyurea,398
+hydroxyzine,399
+ketotifen,400
+lactulose,401
+lenalidomide,402
+leucovorin,403
+levonorgestrel,404
+linagliptin,405
+lomustine,406
+meloxicam,407
+melphalan,408
+memantine,409
+mercaptopurine,410
+methylphenidate,411
+milrinone,412
+misoprostol,413
+moxisylyte,414
+nadolol,415
+nebivolol,416
+neostigmine,417
+olanzapine,418
+oseltamivir,419
+ospemifene,420
+paroxetine,421
+pefloxacin,422
+penbutolol,423
+perindopril,424
+pindolol,425
+promethazine,426
+quinapril,427
+ramipril,428
+roflumilast,429
+tadalafil,430
+tazobactam,431
+tigecycline,432
+tobramycin,433
+tolbutamide,434
+triamcinolone,435
+trihexyphenidyl,436
+vemurafenib,437
+verteporfin,438
+vigabatrin,439
+vinorelbine,440
+zalcitabine,441
+artemether,442
+clofazimine,443
+ritodrine,444
+lumefantrine,445
+maprotiline,446
+trimipramine,447
+tropicamide,448
+afatinib,449
+succinylcholine,450
+cisatracurium,451
+rocuronium,452
+vecuronium,453
+atracurium,454
+secobarbital,455
+methohexital,456
+primidone,457
+amobarbital,458
+fosphenytoin,459
+mecamylamine,460
+sucralfate,461
+iron sucrose,462
+ampicillin,463
+dicloxacillin,464
+oxacillin,465
+calcium gluconate,466
+calcium acetate,467
+calcium chloride,468
+colestipol,469
+colesevelam,470
+sevelamer,471
+sodium bicarbonate,472
+lanthanum carbonate,473
+ferric pyrophosphate,474
+ferric maltol,475
+pitolisant,476
+lincomycin,477
+quinine,478
+tenofovir disoproxil,479
+cidofovir,480
+nabumetone,481
+ketorolac,482
+tolmetin,483
+foscarnet,484
+pentamidine,485
+salicylic acid,486
+oxaprozin,487
+balsalazide,488
+cefditoren,489
+cefadroxil,490
+cefprozil,491
+olsalazine,492
+cefazolin,493
+cefotetan,494
+cefoxitin,495
+salsalate,496
+ceftibuten,497
+cefpodoxime,498
+adefovir,499
+inotersen,500
+phenazopyridine,501
+givosiran,502
+paromomycin,503
+leuprolide,504
+salmon calcitonin,505
+desmopressin,506
+aldesleukin,507
+folic acid,508
+pyridoxine,509
+cevimeline,510
+hydroxocobalamin,511
+ranolazine,512
+liothyronine,513
+venlafaxine,514
+atomoxetine,515
+bleomycin,516
+etomidate,517
+ropivacaine,518
+ertapenem,519
+ibutilide,520
+floxuridine,521
+nitroprusside,522
+hydromorphone,523
+cetirizine,524
+aztreonam,525
+chlorzoxazone,526
+sulfadiazine,527
+timolol,528
+palonosetron,529
+dexrazoxane,530
+eszopiclone,531
+pramipexole,532
+cefdinir,533
+methoxsalen,534
+zanamivir,535
+levocarnitine,536
+clofarabine,537
+dexmedetomidine,538
+metaxalone,539
+nilutamide,540
+mycophenolate mofetil,541
+flurazepam,542
+phentolamine,543
+tamsulosin,544
+nedocromil,545
+pralidoxime,546
+potassium chloride,547
+tirofiban,548
+dicyclomine,549
+tolazamide,550
+dobutamine,551
+terbutaline,552
+amantadine,553
+almotriptan,554
+rizatriptan,555
+mepivacaine,556
+zaleplon,557
+methyldopa,558
+ramelteon,559
+auranofin,560
+edrophonium,561
+guanfacine,562
+mycophenolic acid,563
+probenecid,564
+tolterodine,565
+lubiprostone,566
+abacavir,567
+glipizide,568
+dimethyl sulfoxide,569
+capecitabine,570
+flavoxate,571
+arsenic trioxide,572
+flumazenil,573
+sitagliptin,574
+paliperidone,575
+varenicline,576
+arformoterol,577
+rasagiline,578
+tiotropium,579
+valganciclovir,580
+sorbitol,581
+lorcaserin,582
+clevidipine,583
+lofexidine,584
+migalastat,585
+brivaracetam,586
+ipilimumab,587
+icatibant,588
+alogliptin,589
+nalmefene,590
+droxidopa,591
+levocetirizine,592
+saxagliptin,593
+telavancin,594
+dalfampridine,595
+fesoterodine,596
+dimercaprol,597
+methylnaltrexone,598
+pralatrexate,599
+tiopronin,600
+mirabegron,601
+aclidinium,602
+glycerol phenylbutyrate,603
+trametinib,604
+levomilnacipran,605
+macitentan,606
+vortioxetine,607
+viloxazine,608
+methylene blue,609
+idarucizumab,610
+lixisenatide,611
+sodium fluoride,612
+potassium bicarbonate,613
+selenious acid,614
+opium,615
+naldemedine,616
+valbenazine,617
+delafloxacin,618
+benznidazole,619
+deutetrabenazine,620
+potassium acetate,621
+solriamfetol,622
+quetiapine,623
+apremilast,624
+certolizumab pegol,625
+golodirsen,626
+nisoldipine,627
+bepotastine,628
+permethrin,629
+lorazepam,630
+duloxetine,631
+gentamicin,632
+neomycin,633
+pentostatin,634
+cisplatin,635
+pemetrexed,636
+procainamide,637
+plazomicin,638
+lithium carbonate,639
+triamterene,640
+indapamide,641
+bumetanide,642
+canagliflozin,643
+chlorthalidone,644
+chlorothiazide,645
+isosorbide,646
+ertugliflozin,647
+methazolamide,648
+acetazolamide,649
+dapagliflozin,650
+tenofovir alafenamide,651
+cephalexin,652
+tasimelteon,653
+meperidine,654
+ruxolitinib,655
+pomalidomide,656
+ixazomib,657
+baricitinib,658
+magnesium sulfate,659
+magnesium chloride,660
+talc,661
+bexarotene,662
+acitretin,663
+alitretinoin,664
+tretinoin,665
+ulipristal,666
+bivalirudin,667
+alteplase,668
+reteplase,669
+tenecteplase,670
+argatroban,671
+fondaparinux,672
+warfarin,673
+pentosan polysulfate,674
+heparin,675
+enoxaparin,676
+defibrotide,677
+prasugrel,678
+cangrelor,679
+apixaban,680
+dabigatran etexilate,681
+dalteparin,682
+tinzaparin,683
+ticagrelor,684
+vorapaxar,685
+edoxaban,686
+potassium citrate,687
+ascorbic acid,688
+rabeprazole,689
+esomeprazole,690
+dexlansoprazole,691
+fluvoxamine,692
+milnacipran,693
+desvenlafaxine,694
+atazanavir,695
+nefazodone,696
+stiripentol,697
+conivaptan,698
+enzalutamide,699
+apalutamide,700
+bupivacaine,701
+dyclonine,702
+prilocaine,703
+proparacaine,704
+chloroprocaine,705
+tetracaine,706
+zoledronic acid,707
+ibandronate,708
+interferon alfa-2b,709
+ropeginterferon alfa-2b,710
+bosutinib,711
+glimepiride,712
+olmesartan,713
+pitavastatin,714
+belantamab mafodotin,715
+naloxegol,716
+pazopanib,717
+silodosin,718
+eliglustat,719
+ibrutinib,720
+sildenafil,721
+iloperidone,722
+retapamulin,723
+tofacitinib,724
+zolmitriptan,725
+pirfenidone,726
+tizanidine,727
+aliskiren,728
+darunavir,729
+fexofenadine,730
+fingolimod,731
+fosamprenavir,732
+saquinavir,733
+temsirolimus,734
+sodium zirconium cyclosilicate,735
+nizatidine,736
+asenapine,737
+epinastine,738
+ethanol,739
+droperidol,740
+desloratadine,741
+dimenhydrinate,742
+papaverine,743
+gemifloxacin,744
+amifampridine,745
+carbinoxamine,746
+clemastine,747
+riluzole,748
+frovatriptan,749
+thiothixene,750
+trifluoperazine,751
+dexchlorpheniramine,752
+tetrabenazine,753
+formoterol,754
+letermovir,755
+umeclidinium,756
+elagolix,757
+idarubicin,758
+betaxolol,759
+esmolol,760
+sotalol,761
+tegaserod,762
+acebutolol,763
+flecainide,764
+lisdexamfetamine,765
+tafenoquine,766
+perphenazine,767
+fenfluramine,768
+olodaterol,769
+anastrozole,770
+ozanimod,771
+trandolapril,772
+benazepril,773
+candesartan,774
+ziconotide,775
+avatrombopag,776
+omadacycline,777
+lusutrombopag,778
+lenvatinib,779
+lasmiditan,780
+trilaciclib,781
+tivozanib,782
+moexipril,783
+oxytocin,784
+hyoscyamine,785
+cyproheptadine,786
+gatifloxacin,787
+vorinostat,788
+amisulpride,789
+pasireotide,790
+degarelix,791
+histrelin,792
+triptorelin,793
+treprostinil,794
+octreotide,795
+methsuximide,796
+protriptyline,797
+penicillamine,798
+cholic acid,799
+daunorubicin,800
+inotuzumab ozogamicin,801
+binimetinib,802
+bendamustine,803
+carfilzomib,804
+metreleptin,805
+potassium iodide,806
+minoxidil,807
+raloxifene,808
+deferasirox,809
+eltrombopag,810
+raltegravir,811
+dolutegravir,812
+eslicarbazepine,813
+cabotegravir,814
+lorlatinib,815
+fluticasone,816
+isoflurane,817
+anagrelide,818
+belinostat,819
+levothyroxine,820
+revefenacin,821
+ropinirole,822
+epirubicin,823
+isavuconazonium,824
+vardenafil,825
+pexidartinib,826
+lefamulin,827
+istradefylline,828
+repaglinide,829
+voxelotor,830
+cenobamate,831
+levamlodipine,832
+ziprasidone,833
+obeticholic acid,834
+tucatinib,835
+satralizumab,836
+berotralstat,837
+relugolix,838
+tepotinib,839
+ponesimod,840
+sotorasib,841
+brincidofovir,842
+bedaquiline,843
+brexpiprazole,844
+cabazitaxel,845
+cabozantinib,846
+ceritinib,847
+eletriptan,848
+erlotinib,849
+flibanserin,850
+maraviroc,851
+nilotinib,852
+olaparib,853
+palbociclib,854
+trabectedin,855
+vilazodone,856
+salmeterol,857
+riociguat,858
+toremifene,859
+imatinib,860
+escitalopram,861
+vandetanib,862
+romidepsin,863
+glasdegib,864
+disulfiram,865
+azelastine,866
+telithromycin,867
+oxybutynin,868
+rosuvastatin,869
+ambrisentan,870
+perampanel,871
+doravirine,872
+copanlisib,873
+pimozide,874
+azithromycin,875
+mexiletine,876
+prochlorperazine,877
+galantamine,878
+dolasetron,879
+selegiline,880
+propafenone,881
+ciclesonide,882
+solifenacin,883
+cobimetinib,884
+rotigotine,885
+cariprazine,886
+lacosamide,887
+suvorexant,888
+encorafenib,889
+dacomitinib,890
+alpelisib,891
+gilteritinib,892
+rucaparib,893
+enasidenib,894
+aripiprazole lauroxil,895
+darifenacin,896
+tipranavir,897
+vinblastine,898
+dabrafenib,899
+selexipag,900
+venetoclax,901
+fedratinib,902
+ivosidenib,903
+larotrectinib,904
+cannabidiol,905
+efavirenz,906
+dofetilide,907
+aminophylline,908
+corticotropin,909
+benzphetamine,910
+zileuton,911
+alosetron,912
+cinacalcet,913
+montelukast,914
+tiagabine,915
+tazemetostat,916
+aprepitant,917
+fosaprepitant,918
+primaquine,919
+nicardipine,920
+cyclobenzaprine,921
+indinavir,922
+lomitapide,923
+ethosuximide,924
+lurasidone,925
+thiotepa,926
+acalabrutinib,927
+ixabepilone,928
+midostaurin,929
+sonidegib,930
+idelalisib,931
+fostemsavir,932
+regorafenib,933
+bicalutamide,934
+lonafarnib,935
+esketamine,936
+danazol,937
+abiraterone,938
+phentermine,939
+sufentanil,940
+modafinil,941
+paricalcitol,942
+exemestane,943
+fluocinonide,944
+estramustine,945
+rifapentine,946
+quazepam,947
+safinamide,948
+vismodegib,949
+rolapitant,950
+selinexor,951
+fostamatinib,952
+eravacycline,953
+avapritinib,954
+belumosudil,955
+osimertinib,956
+abemaciclib,957
+ribociclib,958
+brigatinib,959
+ivacaftor,960
+alectinib,961
+duvelisib,962
+flunisolide,963
+cortisone,964
+zolpidem,965
+siponimod,966
+erdafitinib,967
+polatuzumab vedotin,968
+deflazacort,969
+pretomanid,970
+zanubrutinib,971
+upadacitinib,972
+ubrogepant,973
+osilodrostat,974
+neratinib,975
+selumetinib,976
+pemigatinib,977
+ripretinib,978
+lurbinectedin,979
+pralsetinib,980
+alfuzosin,981
+avanafil,982
+pimavanserin,983
+infigratinib,984
+ibrexafungerp,985
+cabergoline,986
+ergotamine,987
+simvastatin,988
+mitotane,989
+lemborexant,990
+capmatinib,991
+selpercatinib,992
+belzutifan,993
+fexinidazole,994
+mobocertinib,995
+atogepant,996
+avacopan,997
+asciminib,998
+maribavir,999
+daridorexant,1000
+mitapivat,1001
+nabilone,1002
+pacritinib,1003
+telotristat ethyl,1004
+denosumab,1005
+peginterferon alfa-2a,1006
+interferon gamma-1b,1007
+gemtuzumab ozogamicin,1008
+pegaspargase,1009
+interferon beta-1b,1010
+rituximab,1011
+basiliximab,1012
+alemtuzumab,1013
+chlorambucil,1014
+propylthiouracil,1015
+fludarabine,1016
+mitoxantrone,1017
+eculizumab,1018
+nelarabine,1019
+glatiramer,1020
+mepolizumab,1021
+belatacept,1022
+belimumab,1023
+teriflunomide,1024
+dimethyl fumarate,1025
+obinutuzumab,1026
+vedolizumab,1027
+blinatumomab,1028
+dinutuximab,1029
+ravulizumab,1030
+sarilumab,1031
+brodalumab,1032
+guselkumab,1033
+ocrelizumab,1034
+monomethyl fumarate,1035
+etanercept,1036
+anakinra,1037
+infliximab,1038
+abatacept,1039
+canakinumab,1040
+tocilizumab,1041
+rilonacept,1042
+golimumab,1043
+secukinumab,1044
+siltuximab,1045
+emapalumab,1046
+desoximetasone,1047
+mometasone,1048
+fluorometholone,1049
+natalizumab,1050
+pimecrolimus,1051
+norepinephrine,1052
+tesamorelin,1053
+trastuzumab,1054
+calcifediol,1055
+ergocalciferol,1056
+doxercalciferol,1057
+oxandrolone,1058
+physostigmine,1059
+pyridostigmine,1060
+rivastigmine,1061
+pegvisomant,1062
+thyrotropin alfa,1063
+insulin lispro,1064
+insulin glargine,1065
+miglitol,1066
+exenatide,1067
+mecasermin,1068
+pramlintide,1069
+insulin detemir,1070
+liraglutide,1071
+empagliflozin,1072
+dulaglutide,1073
+insulin degludec,1074
+semaglutide,1075
+tirzepatide,1076
+ephedrine,1077
+inebilizumab,1078
+somapacitan,1079
+darbepoetin alfa,1080
+methoxy polyethylene glycol-epoetin beta,1081
+ofatumumab,1082
+diroximel fumarate,1083
+pegcetacoplan,1084
+fluphenazine,1085
+zafirlukast,1086
+abrocitinib,1087
+carisoprodol,1088
+oritavancin,1089
+armodafinil,1090
+tecovirimat,1091
+suprofen,1092
+bromfenac,1093
+nepafenac,1094
+diflorasone,1095
+alclometasone,1096
+medrysone,1097
+amcinonide,1098
+clocortolone,1099
+flurandrenolide,1100
+prednicarbate,1101
+desonide,1102
+difluprednate,1103
+halcinonide,1104
+clobetasol,1105
+chlordiazepoxide,1106
+remimazolam,1107
+tirbanibulin,1108
+sarecycline,1109
+isocarboxazid,1110
+remifentanil,1111
+amifostine,1112
+amyl nitrite,1113
+isoxsuprine,1114
+phenoxybenzamine,1115
+terazosin,1116
+isosorbide dinitrate,1117
+opicapone,1118
+vericiguat,1119
+nafarelin,1120
+iloprost,1121
+brexanolone,1122
+levetiracetam,1123
+rufinamide,1124
+metyrosine,1125
+oteseconazole,1126
+sodium ferric gluconate complex,1127
+sincalide,1128
+tafamidis,1129
+midodrine,1130
+oxymetazoline,1131
+diethylpropion,1132
+naxitamab,1133
+acamprosate,1134
+apraclonidine,1135
+nalbuphine,1136
+naratriptan,1137
+dexmethylphenidate,1138
+doxapram,1139
+brimonidine,1140
+molindone,1141
+phendimetrazine,1142
+naphazoline,1143
+palifermin,1144
+eptifibatide,1145
+caplacizumab,1146
+icosapent ethyl,1147
+nystatin,1148
+lanreotide,1149
+interferon beta-1a,1150
+pyrimethamine,1151
+thiamine,1152
+acetylcholine,1153
+trospium,1154
+entacapone,1155
+levoleucovorin,1156
+umbralisib,1157
+sapropterin,1158
+rasburicase,1159
+ferric carboxymaltose,1160
+zinc sulfate,1161
+zinc acetate,1162
+ferumoxytol,1163
+pilocarpine,1164
+patiromer,1165
+cycloserine,1166
+hyaluronidase,1167
+parathyroid hormone,1168
+teriparatide,1169
+methenamine,1170
+mafenide,1171
+benzoyl peroxide,1172
+orlistat,1173
+ipratropium,1174
+glycopyrronium,1175
+methscopolamine,1176
+calfactant,1177
+beractant,1178
+poractant alfa,1179
+meprobamate,1180
+methocarbamol,1181
+trimethobenzamide,1182
+imiquimod,1183
+brinzolamide,1184
+prasterone,1185
+benzonatate,1186
+bethanechol,1187
+bevacizumab,1188
+valrubicin,1189
+panitumumab,1190
+omacetaxine mepesuccinate,1191
+elotuzumab,1192
+pertuzumab,1193
+besifloxacin,1194
+nivolumab,1195
+pembrolizumab,1196
+daratumumab,1197
+necitumumab,1198
+atezolizumab,1199
+niraparib,1200
+avelumab,1201
+mogamulizumab,1202
+moxetumomab pasudotox,1203
+cemiplimab,1204
+isatuximab,1205
+margetuximab,1206
+tebentafusp,1207
+dihematoporphyrin ether,1208
+dostarlimab,1209
+mupirocin,1210
+sulfacetamide,1211
+acetic acid,1212
+silver sulfadiazine,1213
+dalbavancin,1214
+tedizolid,1215
+econazole,1216
+omalizumab,1217
+palivizumab,1218
+ranibizumab,1219
+obiltoxaximab,1220
+ustekinumab,1221
+reslizumab,1222
+raxibacumab,1223
+asfotase alfa,1224
+alirocumab,1225
+evolocumab,1226
+romosozumab,1227
+benralizumab,1228
+dupilumab,1229
+tralokinumab,1230
+aducanumab,1231
+ibalizumab,1232
+bezlotoxumab,1233
+emicizumab,1234
+tildrakizumab,1235
+burosumab,1236
+erenumab,1237
+eptinezumab,1238
+fremanezumab,1239
+galcanezumab,1240
+lanadelumab,1241
+brolucizumab,1242
+tezepelumab,1243
+ansuvimab,1244
+bamlanivimab,1245
+tranexamic acid,1246
+calaspargase pegol,1247
+copper,1248
+sotrovimab,1249
+sutimlimab,1250
+bebtelovimab,1251
+glucagon,1252
+travoprost,1253
+latanoprost,1254
+bimatoprost,1255
+tafluprost,1256
+latanoprostene bunod,1257
+cyclopentolate,1258
+homatropine,1259
+plecanatide,1260
+aluminum chloride,1261
+hydrogen peroxide,1262
+carteolol,1263
+pegloticase,1264
+agalsidase beta,1265
+vibegron,1266
+maralixibat,1267
+tenapanor,1268
+dorzolamide,1269
+sargramostim,1270
+pegfilgrastim,1271
+filgrastim,1272
+romiplostim,1273
+activated charcoal,1274
+glycine,1275
+levobunolol,1276
+dapiprazole,1277
+alcaftadine,1278
+alvimopan,1279
+clotrimazole,1280
+oxiconazole,1281
+sulconazole,1282
+bremelanotide,1283
+sugammadex,1284
+hemin,1285
+anti-inhibitor coagulant complex,1286
+andexanet alfa,1287
+soybean oil,1288
+sodium chloride,1289
+fosdenopterin,1290
+atrazine,1291
+bezafibrate,1292
+cobalt,1293
+molnupiravir,1294
+ozone,1295
+phenylpropanolamine,1296
+rotenone,1297
+uracil,1298
+alanine,1299
+arachidonic acid,1300
+benzbromarone,1301
+beta-alanine,1302
+beta-naphthoflavone,1303
+biotin,1304
+bucladesine,1305
+cadmium,1306
+camptothecin,1307
+chlorine,1308
+cholesterol,1309
+choline,1310
+chromium,1311
+curcumin,1312
+cysteine,1313
+cytidine,1314
+dichlorvos,1315
+diethylstilbestrol,1316
+dinitrochlorobenzene,1317
+ethanolamine,1318
+eugenol,1319
+fenretinide,1320
+fenthion,1321
+formaldehyde,1322
+fructose,1323
+genistein,1324
+glafenine,1325
+glucose-6-phosphate,1326
+glutathione,1327
+glycochenodeoxycholic acid,1328
+gold,1329
+imipenem,1330
+indium,1331
+inulin,1332
+iron,1333
+manganese,1334
+methapyrilene,1335
+methionine,1336
+oleic acid,1337
+palmitic acid,1338
+paraoxon,1339
+phenformin,1340
+pregnenolone,1341
+probucol,1342
+propiolactone,1343
+prostaglandin d2,1344
+puromycin,1345
+quercetin,1346
+resveratrol,1347
+selenium,1348
+silver,1349
+sucrose,1350
+sulfadimethoxine,1351
+teniposide,1352
+thymidine,1353
+titanium,1354
+toluene,1355
+trichloroethylene,1356
+troglitazone,1357
+tunicamycin,1358
+urea,1359
+urethane,1360
+vitamin d,1361
+vitamin e,1362
+zinc,1363
+ammonia,1364
+aminopterin,1365
+flunarizine,1366
+leucine,1367
+mibefradil,1368
+niclosamide,1369
+pyruvaldehyde,1370
+trehalose,1371
+vanadium,1372
+1-benzylimidazole,1373
+"2,4-dinitrophenol",1374
+2-methoxyestradiol,1375
+"3,3'-diindolylmethane",1376
+3-phenylpropionic acid,1377
+4-hydroxybenzoic acid,1378
+acenocoumarol,1379
+acetylcarnitine,1380
+adamantane,1381
+adenine,1382
+aica ribonucleotide,1383
+aldosterone,1384
+androstenediol,1385
+androstenedione,1386
+anthralin,1387
+antimony,1388
+antipyrine,1389
+apigenin,1390
+arbutin,1391
+arecoline,1392
+arginine,1393
+aspartame,1394
+aurothioglucose,1395
+barbital,1396
+barium,1397
+benzydamine,1398
+berberine,1399
+betulinic acid,1400
+biopterin,1401
+brompheniramine,1402
+butyric acid,1403
+calcium,1404
+camphor,1405
+cantharidin,1406
+carbaryl,1407
+carnosine,1408
+cesium,1409
+chlorhexidine,1410
+chloroform,1411
+chlorogenic acid,1412
+chlortetracycline,1413
+clenbuterol,1414
+clonixin,1415
+cloxacillin,1416
+coenzyme a,1417
+colforsin,1418
+corticosterone,1419
+cxa-10,1420
+cyanamide,1421
+cyclic gmp,1422
+cyclofenil,1423
+d-aspartic acid,1424
+delavirdine,1425
+demecolcine,1426
+dichlororibofuranosylbenzimidazole,1427
+dihydroxyacetone,1428
+dinoprost,1429
+ditiocarb,1430
+domperidone,1431
+elacridar,1432
+emodin,1433
+enfuvirtide,1434
+enrofloxacin,1435
+equilenin,1436
+equilin,1437
+equol,1438
+ergosterol,1439
+estriol,1440
+ethoxyquin,1441
+ethoxzolamide,1442
+fadrozole,1443
+farnesol,1444
+fenbendazole,1445
+fenoterol,1446
+fluorescein,1447
+gadolinium,1448
+galactose,1449
+gamma-tocopherol,1450
+ginsenosides,1451
+glutethimide,1452
+gossypol,1453
+guaiacol,1454
+guanine,1455
+guanosine,1456
+halothane,1457
+harmine,1458
+hesperidin,1459
+hexestrol,1460
+histamine,1461
+histidine,1462
+homocysteine,1463
+hydrogen,1464
+hymecromone,1465
+inositol,1466
+iodine,1467
+isatin,1468
+isoflurophate,1469
+isoleucine,1470
+josamycin,1471
+kynurenic acid,1472
+kynurenine,1473
+lanosterol,1474
+leukotriene b4,1475
+leukotriene c4,1476
+lutein,1477
+luteolin,1478
+lycopene,1479
+magnesium,1480
+maltose,1481
+mannose,1482
+masoprocol,1483
+medazepam,1484
+menthol,1485
+mephenytoin,1486
+merbromin,1487
+mercaptoethanol,1488
+mestranol,1489
+metribolone,1490
+misonidazole,1491
+mk-886,1492
+molsidomine,1493
+molybdenum,1494
+n-acetylserotonin,1495
+nandrolone,1496
+n-formylmethionine,1497
+nicotinamide mononucleotide,1498
+nitrazepam,1499
+nitric oxide,1500
+nomifensine,1501
+norgestrel,1502
+ouabain,1503
+oxalic acid,1504
+oxamic acid,1505
+oxyquinoline,1506
+pentagastrin,1507
+perazine,1508
+perhexiline,1509
+phenacetin,1510
+phencyclidine,1511
+phenindione,1512
+pheniramine,1513
+phenol,1514
+phenolphthalein,1515
+phenylalanine,1516
+phenylbutazone,1517
+phloretin,1518
+phloroglucinol,1519
+phosphorus,1520
+picrotoxin,1521
+plicamycin,1522
+poloxalene,1523
+procarbazine,1524
+proline,1525
+promegestone,1526
+propyl gallate,1527
+putrescine,1528
+pyridoxal,1529
+pyridoxamine,1530
+quinacrine,1531
+quinolinic acid,1532
+raffinose,1533
+reserpine,1534
+rhamnose,1535
+riboflavin,1536
+roxarsone,1537
+rutin,1538
+selenocysteine,1539
+selenomethionine,1540
+serotonin,1541
+silicon,1542
+spermidine,1543
+sphingosine,1544
+staurosporine,1545
+stf-31,1546
+strychnine,1547
+sulfamethazine,1548
+sulfaphenazole,1549
+sulfinpyrazone,1550
+sulfisoxazole,1551
+sulfobromophthalein,1552
+suloctidil,1553
+synephrine,1554
+tak-243,1555
+temefos,1556
+tenofovir,1557
+thiram,1558
+thymol,1559
+trinitrotoluene,1560
+tryptophan,1561
+turpentine,1562
+tyramine,1563
+tyrosine,1564
+uridine,1565
+valine,1566
+water,1567
+wortmannin,1568
+xanthine,1569
+xylitol,1570
+xylose,1571
+yohimbine,1572
+zeranol,1573
+anisomycin,1574
+benzocaine,1575
+butyrylthiocholine,1576
+coumaphos,1577
+meptazinol,1578
+methylcellulose,1579
+norethynodrel,1580
+platelet activating factor,1581
+aclarubicin,1582
+1-naphthaleneacetic acid,1583
+"2,4-thiazolidinedione",1584
+agmatine,1585
+allantoin,1586
+amrinone,1587
+angiotensin ii,1588
+batroxobin,1589
+bentonite,1590
+benzethonium,1591
+boron,1592
+bradykinin,1593
+cannabinol,1594
+ceruletide,1595
+cetylpyridinium,1596
+cholecystokinin,1597
+cilastatin,1598
+cilomilast,1599
+diminazene,1600
+enflurane,1601
+eucalyptol,1602
+gabexate,1603
+gdc-0152,1604
+guanidine,1605
+hypoxanthine,1606
+indoprofen,1607
+leukotriene d4,1608
+lysine,1609
+methylmalonic acid,1610
+methylthiouracil,1611
+mianserin,1612
+miransertib,1613
+n-chlorotaurine,1614
+nigericin,1615
+nitroarginine,1616
+patulin,1617
+piperacillin,1618
+polymyxin b,1619
+procaterol,1620
+rolipram,1621
+spermine,1622
+suramin,1623
+thenoyltrifluoroacetone,1624
+theobromine,1625
+tropisetron,1626
+virginiamycin,1627
+cadaverine,1628
+iohexol,1629
+squalene,1630
+tolnaftate,1631
+acetylleucyl-leucyl-norleucinal,1632
+ambroxol,1633
+benserazide,1634
+brefeldin a,1635
+bromhexine,1636
+carbenoxolone,1637
+diatrizoate,1638
+digitoxin,1639
+glutaral,1640
+harmaline,1641
+lentinan,1642
+leptin,1643
+melarsoprol,1644
+monensin,1645
+nitrogen,1646
+n-oleoyldopamine,1647
+ns-3728,1648
+oxypurinol,1649
+pinacidil,1650
+saralasin,1651
+somatostatin,1652
+thiopental,1653
+triacetin,1654
+trioxsalen,1655
+tubocurarine,1656
+vildagliptin,1657
+kanamycin,1658
+serine,1659
+thiostrepton,1660
+"3,5-diiodothyropropionic acid",1661
+alprenolol,1662
+bicuculline,1663
+canertinib,1664
+clioquinol,1665
+cystine,1666
+dequalinium,1667
+digitoxigenin,1668
+d-jnki-1,1669
+emetine,1670
+frankincense,1671
+guanabenz,1672
+hexamethonium,1673
+iopamidol,1674
+ketanserin,1675
+muscimol,1676
+nimustine,1677
+nocodazole,1678
+oxytetracycline,1679
+platinum,1680
+potassium,1681
+practolol,1682
+procaine,1683
+propidium,1684
+proscillaridin,1685
+raclopride,1686
+ribose,1687
+tetrodotoxin,1688
+thiamylal,1689
+thiorphan,1690
+vidarabine,1691
+biperiden,1692
+cloprostenol,1693
+cytochalasin b,1694
+digoxigenin,1695
+iproniazid,1696
+meglumine,1697
+oxymetholone,1698
+phosmet,1699
+procyclidine,1700
+quinestrol,1701
+sizofiran,1702
+thrombopoietin,1703
+10-hydroxycamptothecin,1704
+abt-737,1705
+amsacrine,1706
+creatine,1707
+dabigatran,1708
+dianhydrogalactitol,1709
+hexachlorophene,1710
+lucanthone,1711
+mimosine,1712
+natamycin,1713
+norfloxacin,1714
+noscapine,1715
+pergolide,1716
+phosphocreatine,1717
+phosphonoacetic acid,1718
+pirenzepine,1719
+povidone,1720
+saccharin,1721
+triprolidine,1722
+vs-5584,1723
+kinetin,1724
+novobiocin,1725
+"2,5-di-tert-butylhydroquinone",1726
+atrasentan,1727
+kaolin,1728
+me-344,1729
+px-102,1730
+tiletamine,1731
+xylazine,1732
+echinomycin,1733
+lobeline,1734
+penfluridol,1735
+xamoterol,1736
+xenon,1737
+6-bromoindirubin-3'-oxime,1738
+thymine,1739
+chlorquinaldol,1740
+phenolsulfonphthalein,1741
+tubercidin,1742
+gestodene,1743
+deoxyepinephrine,1744
+idazoxan,1745
+nitrendipine,1746
+carboxin,1747
+sr 140333,1748
+methane,1749
+cisapride,1750
+cilengitide,1751
+buserelin,1752
+metipranolol,1753
+piperazine,1754
+vindesine,1755
+dextrorphan,1756
+dienestrol,1757
+enoxacin,1758
+hexobarbital,1759
+methoxyflurane,1760
+moclobemide,1761
+oleandomycin,1762
+pargyline,1763
+proguanil,1764
+tirapazamine,1765
+troleandomycin,1766
+20-hydroxycholesterol,1767
+2'-c-methylcytidine,1768
+bms-986094,1769
+fucose,1770
+porphobilinogen,1771
+cerulenin,1772
+remoxipride,1773
+trapidil,1774
+"s-(2,4-dinitrophenyl)glutathione",1775
+4-hydroxycoumarin,1776
+bupranolol,1777
+indoramin,1778
+levallorphan,1779
+lisuride,1780
+metergoline,1781
+methysergide,1782
+neuropeptide y,1783
+octopamine,1784
+oxprenolol,1785
+pancuronium,1786
+pentazocine,1787
+pipecuronium,1788
+piribedil,1789
+rilmenidine,1790
+ritanserin,1791
+spiperone,1792
+thrombin,1793
+phenprocoumon,1794
+acriflavine,1795
+dichlorophen,1796
+petrolatum,1797
+proflavine,1798
+valinomycin,1799
+fendiline,1800
+lasofoxifene,1801
+guanethidine,1802
+chlorprothixene,1803
+gallopamil,1804
+gs-441524,1805
+aminacrine,1806
+cilazapril,1807
+norleucine,1808
+bemegride,1809
+chlorobutanol,1810
+flurothyl,1811
+trifluoroethanol,1812
+alcuronium,1813
+ceftizoxime,1814
+cinnarizine,1815
+mivacurium,1816
+oxyphenbutazone,1817
+sarcosine,1818
+bombesin,1819
+lactose,1820
+trimetrexate,1821
+cb-5083,1822
+5-iodotubercidin,1823
+chir-124,1824
+rubidium,1825
+antipain,1826
+reboxetine,1827
+inosine,1828
+erythropoietin,1829
+tromethamine,1830
+aprindine,1831
+phosphoenolpyruvate,1832
+etilefrine,1833
+escin,1834
+aminorex,1835
+bendroflumethiazide,1836
+cefotiam,1837
+dithioerythritol,1838
+nialamide,1839
+sulfamerazine,1840
+tetraethylammonium,1841
+trichlormethiazide,1842
+citrulline,1843
+cefmetazole,1844
+thiamphenicol,1845
+mazindol,1846
+trimethaphan,1847
+flumethasone,1848
+hexylresorcinol,1849
+creatinine,1850
+metocurine iodide,1851
+gallamine triethiodide,1852
+atracurium besylate,1853
+doxacurium,1854
+decamethonium,1855
+metocurine,1856
+rapacuronium,1857
+neosaxitoxin,1858
+gallamine,1859
+butalbital,1860
+methylphenobarbital,1861
+barbexaclone,1862
+butabarbital,1863
+bismuth subsalicylate,1864
+mipomersen,1865
+flucloxacillin,1866
+phenoxymethylpenicillin,1867
+carbenicillin,1868
+hetacillin,1869
+benzylpenicilloyl polylysine,1870
+mezlocillin,1871
+cyclacillin,1872
+benzylpenicillin,1873
+azlocillin,1874
+amdinocillin,1875
+bacampicillin,1876
+meticillin,1877
+pivampicillin,1878
+pivmecillinam,1879
+ticarcillin,1880
+azidocillin,1881
+carindacillin,1882
+procaine benzylpenicillin,1883
+sultamicillin,1884
+temocillin,1885
+epicillin,1886
+pheneticillin,1887
+carfecillin,1888
+propicillin,1889
+clometocillin,1890
+sulbenicillin,1891
+penamecillin,1892
+talampicillin,1893
+aspoxicillin,1894
+metampicillin,1895
+picosulfuric acid,1896
+bismuth subcitrate potassium,1897
+strontium ranelate,1898
+calcium glucoheptonate,1899
+calcium glubionate anhydrous,1900
+calcium citrate,1901
+calcium phosphate,1902
+calcium lactate,1903
+calcium lactate gluconate,1904
+calcium pangamate,1905
+calcium levulinate,1906
+calcium cation,1907
+calcium polycarbophil,1908
+cholestyramine,1909
+calcium carbonate,1910
+aluminum hydroxide,1911
+aluminium,1912
+bismuth subnitrate,1913
+aluminium acetoacetate,1914
+almasilate,1915
+aluminium glycinate,1916
+aloglutamol,1917
+calcium silicate,1918
+aluminium phosphate,1919
+iron dextran,1920
+prussian blue,1921
+ferric ammonium citrate,1922
+ferumoxsil,1923
+ferumoxides,1924
+ferric sulfate,1925
+ferrous bisglycinate,1926
+gleptoferron,1927
+ferric oxide,1928
+perflubutane,1929
+ferrous sulfate anhydrous,1930
+sodium feredetate,1931
+ferric hydroxide,1932
+ferric cation,1933
+ferrous gluconate,1934
+ferrous succinate,1935
+ferrous fumarate,1936
+tetraferric tricitrate decahydrate,1937
+ferric oxyhydroxide,1938
+iron polymaltose,1939
+bcg vaccine,1940
+typhoid vaccine,1941
+altrenogest,1942
+gestonorone,1943
+methylestrenolone,1944
+norgestrienone,1945
+norethindrone enanthate,1946
+quingestanol acetate,1947
+etonogestrel,1948
+megestrol acetate,1949
+medroxyprogesterone acetate,1950
+allylestrenol,1951
+dienogest,1952
+norgestimate,1953
+norethisterone,1954
+ethynodiol diacetate,1955
+cyproterone acetate,1956
+norelgestromin,1957
+hydroxyprogesterone caproate,1958
+medrogestone,1959
+gestrinone,1960
+nomegestrol,1961
+lynestrenol,1962
+chlormadinone,1963
+quingestanol,1964
+demegestone,1965
+etynodiol,1966
+nomegestrol acetate,1967
+hydroxyprogesterone,1968
+drospirenone,1969
+algestone acetophenide,1970
+technetium tc-99m oxidronate,1971
+lymecycline,1972
+clomocycline,1973
+metacycline,1974
+rolitetracycline,1975
+magnesium cation,1976
+viomycin,1977
+magnesium acetate tetrahydrate,1978
+magnesium glycinate,1979
+magnesium aluminum silicate,1980
+penimepicycline,1981
+magnesium phosphate,1982
+magnesium acetate,1983
+magnesium stearate,1984
+botulinum toxin type b,1985
+botulinum toxin type a,1986
+pentolinium,1987
+cyclopentamine,1988
+icosapent,1989
+mesalazine,1990
+cefmenoxime,1991
+pamidronic acid,1992
+cefpiramide,1993
+loracarbef,1994
+cefalotin,1995
+tenoxicam,1996
+rofecoxib,1997
+valaciclovir,1998
+valdecoxib,1999
+cephaloglycin,2000
+mefenamic acid,2001
+carprofen,2002
+ceforanide,2003
+meclofenamic acid,2004
+colistimethate,2005
+cefapirin,2006
+lumiracoxib,2007
+cefamandole,2008
+cefonicid,2009
+cefoperazone,2010
+cefradine,2011
+choline magnesium trisalicylate,2012
+cefacetrile,2013
+antrafenine,2014
+aminophenazone,2015
+tiaprofenic acid,2016
+hydrolyzed cephalothin,2017
+cephalothin group,2018
+latamoxef,2019
+nimesulide,2020
+benoxaprofen,2021
+metamizole,2022
+zomepirac,2023
+ceftobiprole,2024
+cimicoxib,2025
+ceftaroline fosamil,2026
+lornoxicam,2027
+aceclofenac,2028
+zaltoprofen,2029
+azapropazone,2030
+parecoxib,2031
+salicylamide,2032
+kebuzone,2033
+isoxicam,2034
+ibuproxam,2035
+floctafenine,2036
+fenbufen,2037
+etofenamate,2038
+epirizole,2039
+cefaloridine,2040
+cefminox,2041
+dexibuprofen,2042
+dexketoprofen,2043
+droxicam,2044
+tolfenamic acid,2045
+firocoxib,2046
+morniflumate,2047
+talniflumate,2048
+cefroxadine,2049
+robenacoxib,2050
+tepoxalin,2051
+flunixin,2052
+flomoxef,2053
+nitroaspirin,2054
+indobufen,2055
+tinoridine,2056
+alclofenac,2057
+fentiazac,2058
+suxibuzone,2059
+cefatrizine,2060
+bumadizone,2061
+alminoprofen,2062
+difenpiramide,2063
+nifenazone,2064
+lonazolac,2065
+cefcapene,2066
+cefodizime,2067
+tenidap,2068
+cefsulodin,2069
+cefetamet,2070
+propyphenazone,2071
+proglumetacin,2072
+guacetisal,2073
+ethenzamide,2074
+carbaspirin calcium,2075
+mofebutazone,2076
+cefbuperazone,2077
+proquazone,2078
+benorilate,2079
+cefozopran,2080
+cefpirome,2081
+pirprofen,2082
+cefazedone,2083
+acemetacin,2084
+ceftezole,2085
+imidazole salicylate,2086
+sc-236,2087
+ns-398,2088
+propacetamol,2089
+lithium cation,2090
+lithium citrate,2091
+loxoprofen,2092
+framycetin,2093
+geneticin,2094
+apramycin,2095
+neamine,2096
+dihydrostreptomycin,2097
+hygromycin b,2098
+acetylsalicylic acid,2099
+niflumic acid,2100
+tositumomab,2101
+cyanocobalamin,2102
+gadodiamide,2103
+benzatropine,2104
+conjugated estrogens,2105
+thiethylperazine,2106
+azelaic acid,2107
+fluocinolone acetonide,2108
+gadoteridol,2109
+clorazepic acid,2110
+dyphylline,2111
+gadobenic acid,2112
+propantheline,2113
+gadopentetic acid,2114
+testolactone,2115
+salbutamol,2116
+levobupivacaine,2117
+isosorbide mononitrate,2118
+phylloquinone,2119
+sibutramine,2120
+tiludronic acid,2121
+iodixanol,2122
+testosterone propionate,2123
+oxybenzone,2124
+fenproporex,2125
+bromazepam,2126
+chloral hydrate,2127
+metamfetamine,2128
+ketazolam,2129
+topiroxostat,2130
+estrone sulfate,2131
+pegaptanib,2132
+ezogabine,2133
+pentaerythritol tetranitrate,2134
+doripenem,2135
+flupirtine,2136
+gadofosveset trisodium,2137
+ammonium chloride,2138
+mangafodipir,2139
+plerixafor,2140
+triethylenetetramine,2141
+ioflupane i-123,2142
+n-methylnicotinamide,2143
+peginesatide,2144
+teduglutide,2145
+formestane,2146
+ledipasvir,2147
+ceftolozane,2148
+corifollitropin alfa,2149
+idebenone,2150
+vilanterol,2151
+trimebutine,2152
+tixocortol,2153
+ancestim,2154
+hydroxyethyl starch,2155
+pentastarch,2156
+chromic chloride,2157
+gadoteric acid,2158
+iothalamic acid,2159
+ioversol,2160
+ioxilan,2161
+isosulfan blue,2162
+technetium tc-99m mebrofenin,2163
+florbetaben (18f),2164
+florbetapir (18f),2165
+iopromide,2166
+technetium tc-99m exametazime,2167
+technetium tc-99m pyrophosphate,2168
+etoperidone,2169
+lorpiprazole,2170
+arotinolol,2171
+pholcodine,2172
+piracetam,2173
+bisoxatin,2174
+blonanserin,2175
+melperone,2176
+pirlindole,2177
+toloxatone,2178
+gimeracil,2179
+imidafenacin,2180
+sodium aurothiomalate,2181
+choline c 11,2182
+sacubitril,2183
+chondroitin sulfate,2184
+"synthetic conjugated estrogens, a",2185
+"synthetic conjugated estrogens, b",2186
+sulbactam,2187
+"antihemophilic factor (recombinant), pegylated",2188
+invert sugar,2189
+dexpanthenol,2190
+phosphoric acid,2191
+sodium acetate,2192
+potassium perchlorate,2193
+sodium sulfate,2194
+acrivastine,2195
+octinoxate,2196
+fludeoxyglucose (18f),2197
+iobenguane sulfate i-123,2198
+potassium nitrate,2199
+n-acetyltyrosine,2200
+eucalyptus oil,2201
+bicisate,2202
+tocopherol,2203
+dl-methylephedrine,2204
+tetradecyl hydrogen sulfate (ester),2205
+clove oil,2206
+evening primrose oil,2207
+pidotimod,2208
+lesinurad,2209
+indigotindisulfonic acid,2210
+etafedrine,2211
+isoflavone,2212
+vaborbactam,2213
+propiverine,2214
+tiapride,2215
+levosalbutamol,2216
+inosine pranobex,2217
+oxabolone cipionate,2218
+dichlorobenzyl alcohol,2219
+ipecac,2220
+fenofibric acid,2221
+albutrepenonacog alfa,2222
+bismuth subgallate,2223
+testosterone cypionate,2224
+testosterone enanthate,2225
+testosterone undecanoate,2226
+estradiol acetate,2227
+estradiol cypionate,2228
+estradiol dienanthate,2229
+estradiol valerate,2230
+patent blue,2231
+choline salicylate,2232
+pentetic acid,2233
+potassium sulfate,2234
+chromic citrate,2235
+chromic nitrate,2236
+chromium gluconate,2237
+chromium nicotinate,2238
+chromous sulfate,2239
+pyrithione,2240
+chloroxylenol,2241
+resorcinol,2242
+dimetacrine,2243
+strontium chloride,2244
+difluocortolone,2245
+prucalopride,2246
+netilmicin,2247
+streptomycin,2248
+ribostamycin,2249
+gentamicin c1a,2250
+arbekacin,2251
+sisomicin,2252
+isepamicin,2253
+nedaplatin,2254
+capreomycin,2255
+etacrynic acid,2256
+mersalyl,2257
+torasemide,2258
+methyclothiazide,2259
+benzthiazide,2260
+cyclothiazide,2261
+hydroflumethiazide,2262
+diclofenamide,2263
+polythiazide,2264
+quinethazone,2265
+piretanide,2266
+tienilic acid,2267
+ularitide,2268
+azosemide,2269
+canrenoic acid,2270
+canrenone,2271
+rolofylline,2272
+spiradoline,2273
+cicletanine,2274
+meticrane,2275
+mefruside,2276
+mebutizide,2277
+cyclopenthiazide,2278
+clorexolone,2279
+clofenamide,2280
+fenquizone,2281
+clopamide,2282
+muzolimine,2283
+xipamide,2284
+epitizide,2285
+bromotheophylline,2286
+indisulam,2287
+efonidipine,2288
+potassium cation,2289
+buthiazide,2290
+tripamide,2291
+magnesium oxide,2292
+magnesium salicylate,2293
+magaldrate,2294
+magnesium hydroxide,2295
+magnesium trisilicate,2296
+magnesium carbonate,2297
+magnesium citrate,2298
+magnesium silicate,2299
+hydrotalcite,2300
+magnesium aspartate,2301
+magnesium peroxide,2302
+magnesium gluconate,2303
+magnesium orotate,2304
+magnesium levulinate,2305
+magnesium lactate,2306
+citric acid,2307
+l-tartaric acid,2308
+metildigoxin,2309
+acetyldigoxin,2310
+etretinate,2311
+4-oxoretinol,2312
+ro 12-7310,2313
+zuretinol acetate,2314
+motretinide,2315
+p-coumaric acid,2316
+octylphenoxy polyethoxyethanol,2317
+trestolone,2318
+lonidamine,2319
+triptolide,2320
+ormeloxifene,2321
+ethinylestradiol,2322
+estradiol benzoate,2323
+lepirudin,2324
+urokinase,2325
+anistreplase,2326
+abciximab,2327
+drotrecogin alfa,2328
+streptokinase,2329
+dicoumarol,2330
+ardeparin,2331
+coumarin,2332
+ximelagatran,2333
+desmoteplase,2334
+ancrod,2335
+beraprost,2336
+fibrinolysin,2337
+sulodexide,2338
+semuloparin,2339
+idraparinux,2340
+astaxanthin,2341
+otamixaban,2342
+amediplase,2343
+danaparoid,2344
+ferulic acid,2345
+(r)-warfarin,2346
+ethyl biscoumacetate,2347
+nadroparin,2348
+triflusal,2349
+ditazole,2350
+sodium citrate,2351
+dextran,2352
+bemiparin,2353
+parnaparin,2354
+desirudin,2355
+antithrombin alfa,2356
+protein c,2357
+antithrombin iii human,2358
+letaxaban,2359
+darexaban,2360
+betrixaban,2361
+nafamostat,2362
+monteplase,2363
+fluindione,2364
+protein s human,2365
+brinase,2366
+clorindione,2367
+diphenadione,2368
+tioclomarol,2369
+melagatran,2370
+saruplase,2371
+(s)-warfarin,2372
+tocopherylquinone,2373
+troxerutin,2374
+edetic acid,2375
+reviparin,2376
+dermatan sulfate,2377
+sr-123781a,2378
+dehydroascorbic acid,2379
+ascorbyl phosphate,2380
+sodium ascorbate,2381
+calcium ascorbate,2382
+zinc ascorbate,2383
+niacinamide ascorbate,2384
+vibrio cholerae cvd 103-hgr strain live antigen,2385
+collagenase clostridium histolyticum,2386
+ilaprazole,2387
+dexrabeprazole,2388
+estetrol,2389
+palovarotene,2390
+letibotulinumtoxina,2391
+clorobiocin,2392
+calanolide a,2393
+haloxon,2394
+bergapten,2395
+tecarfarin,2396
+esculin,2397
+4-methylumbelliferyl beta-d-glucoside,2398
+carbocromen,2399
+cloricromen,2400
+coumermycin a1,2401
+finerenone,2402
+cinchocaine,2403
+oxybuprocaine,2404
+benzyl alcohol,2405
+etidocaine,2406
+articaine,2407
+propoxycaine,2408
+pramocaine,2409
+butamben,2410
+butacaine,2411
+oxetacaine,2412
+ethyl chloride,2413
+butanilicaine,2414
+metabutethamine,2415
+quinisocaine,2416
+alendronic acid,2417
+clodronic acid,2418
+risedronic acid,2419
+etidronic acid,2420
+incadronic acid,2421
+interferon alfa-n3,2422
+interferon alfa-2a,2423
+interferon alfacon-1,2424
+rubella virus vaccine,2425
+bacillus calmette-guerin substrain tice live antigen,2426
+bacillus calmette-guerin substrain connaught live antigen,2427
+yellow fever vaccine,2428
+anthrax vaccine,2429
+typhoid vaccine live,2430
+human adenovirus e serotype 4 strain cl-68578 antigen,2431
+adenovirus type 7 vaccine live,2432
+varicella zoster vaccine (live/attenuated),2433
+bacillus calmette-guerin substrain russian bcg-i live antigen,2434
+brentuximab vedotin,2435
+taurocholic acid,2436
+indocyanine green acid form,2437
+pilsicainide,2438
+glycyrrhizic acid,2439
+"r,s-warfarin alcohol",2440
+"s,r-warfarin alcohol",2441
+agomelatine,2442
+boceprevir,2443
+carbocisteine,2444
+elvitegravir,2445
+amprenavir,2446
+telaprevir,2447
+eluxadoline,2448
+vonoprazan,2449
+methantheline,2450
+metiamide,2451
+roxatidine acetate,2452
+lafutidine,2453
+lavoltidine,2454
+niperotidine,2455
+perflutren,2456
+nalidixic acid,2457
+cinoxacin,2458
+levosimendan,2459
+aceprometazine,2460
+terlipressin,2461
+pracinostat,2462
+technetium tc-99m ciprofloxacin,2463
+garenoxacin,2464
+tedisamil,2465
+tucidinostat,2466
+nemonoxacin,2467
+antazoline,2468
+butriptyline,2469
+mocetinostat,2470
+entinostat,2471
+cudc-101,2472
+simendan,2473
+ricolinostat,2474
+mizolastine,2475
+abexinostat,2476
+oxatomide,2477
+sitafloxacin,2478
+sultopride,2479
+nizofenone,2480
+bunaftine,2481
+lorcainide,2482
+emedastine,2483
+trovafloxacin,2484
+flupentixol,2485
+sparfloxacin,2486
+temafloxacin,2487
+lomefloxacin,2488
+tocainide,2489
+hesperetin,2490
+oxtriphylline,2491
+fenethylline,2492
+8-azaguanine,2493
+9-methylguanine,2494
+peldesine,2495
+9-deazaguanine,2496
+vadimezan,2497
+propentofylline,2498
+doxofylline,2499
+ramosetron,2500
+lisofylline,2501
+lobucavir,2502
+cafedrine,2503
+theodrenaline,2504
+dihydralazine,2505
+bamifylline,2506
+proxyphylline,2507
+acefylline,2508
+etamiphylline,2509
+pentifylline,2510
+bufylline,2511
+8-chlorotheophylline,2512
+gts-21,2513
+debrisoquine,2514
+talinolol,2515
+dosulepin,2516
+dexfenfluramine,2517
+minaprine,2518
+mesoridazine,2519
+mequitazine,2520
+encainide,2521
+bevantolol,2522
+methotrimeprazine,2523
+midomafetamine,2524
+4-methoxyamphetamine,2525
+vernakalant,2526
+repinotan,2527
+esmirtazapine,2528
+bufuralol,2529
+sparteine,2530
+enclomiphene,2531
+bopindolol,2532
+indenolol,2533
+levobetaxolol,2534
+anisodamine,2535
+landiolol,2536
+bucindolol,2537
+esatenolol,2538
+cloranolol,2539
+mepindolol,2540
+epanolol,2541
+tertatolol,2542
+butyrfentanyl,2543
+bicifadine,2544
+"5-methoxy-n,n-dimethyltryptamine",2545
+licofelone,2546
+capravirine,2547
+eprosartan,2548
+omapatrilat,2549
+rescinnamine,2550
+forasartan,2551
+saprisartan,2552
+spirapril,2553
+penicillin g acyl-serine,2554
+azilsartan medoxomil,2555
+temocapril,2556
+certoparin,2557
+fimasartan,2558
+imidapril,2559
+mannitol busulfan,2560
+zofenopril,2561
+delapril,2562
+benazeprilat,2563
+fosinoprilat,2564
+ramiprilat,2565
+perindoprilat,2566
+quinaprilat,2567
+candesartan cilexetil,2568
+tegafur-uracil,2569
+plitidepsin,2570
+rilpivirine,2571
+xylometazoline,2572
+fasudil,2573
+delamanid,2574
+clomifene,2575
+technetium tc-99m sestamibi,2576
+ombitasvir,2577
+valspodar,2578
+grapiprant,2579
+pibrentasvir,2580
+glecaprevir,2581
+loncastuximab tesirine,2582
+buclizine,2583
+doxylamine,2584
+dexbrompheniramine,2585
+rosoxacin,2586
+levocabastine,2587
+bretylium,2588
+cyclizine,2589
+ajmaline,2590
+fleroxacin,2591
+farnesyl thiopyrophosphate,2592
+tandutinib,2593
+cariporide,2594
+mepyramine,2595
+farnesyl diphosphate,2596
+geranylgeranyl diphosphate,2597
+eribulin,2598
+chlorcyclizine,2599
+flumequine,2600
+famphur,2601
+orbifloxacin,2602
+sarafloxacin,2603
+difloxacin,2604
+bilastine,2605
+pazufloxacin,2606
+fimepinostat,2607
+prulifloxacin,2608
+givinostat,2609
+cibenzoline,2610
+prajmaline,2611
+oxolinic acid,2612
+lorajmine,2613
+piromidic acid,2614
+rufloxacin,2615
+pipemidic acid,2616
+alimemazine,2617
+azatadine,2618
+gimatecan,2619
+gadoxetic acid,2620
+ursodeoxycholic acid,2621
+deoxycholic acid,2622
+talazoparib,2623
+potassium alum,2624
+monopotassium phosphate,2625
+dipotassium phosphate,2626
+"sodium phosphate, monobasic",2627
+potassium lactate,2628
+potassium bitartrate,2629
+potassium hydroxide,2630
+potassium gluconate,2631
+potassium guaiacolsulfonate,2632
+potassium carbonate,2633
+potassium triiodide,2634
+alvocidib,2635
+bazedoxifene,2636
+muraglitazar,2637
+gavestinel,2638
+eslicarbazepine acetate,2639
+prasterone sulfate,2640
+artemisinin,2641
+valproic acid,2642
+mitiglinide,2643
+artenimol,2644
+bempedoic acid,2645
+isavuconazole,2646
+nintedanib,2647
+sacituzumab govitecan,2648
+abametapir,2649
+oliceridine,2650
+etizolam,2651
+trastuzumab emtansine,2652
+daclatasvir,2653
+ponatinib,2654
+fluticasone propionate,2655
+barnidipine,2656
+lumacaftor,2657
+zimelidine,2658
+seproxetine,2659
+azimilide,2660
+grepafloxacin,2661
+halofantrine,2662
+zuclopenthixol,2663
+macimorelin,2664
+terodiline,2665
+fusidic acid,2666
+cerivastatin,2667
+lercanidipine,2668
+udenafil,2669
+cethromycin,2670
+vicriviroc,2671
+fluticasone furoate,2672
+benidipine,2673
+paritaprevir,2674
+elbasvir,2675
+asunaprevir,2676
+icotinib,2677
+hydrocortisone acetate,2678
+hydrocortisone cypionate,2679
+zopiclone,2680
+promazine,2681
+ethylmorphine,2682
+dihydrocodeine,2683
+pipotiazine,2684
+dapoxetine,2685
+tesmilifene,2686
+sertindole,2687
+perospirone,2688
+netupitant,2689
+dasabuvir,2690
+dexchlorpheniramine maleate,2691
+rupatadine,2692
+9-aminocamptothecin,2693
+methylprednisone,2694
+medical cannabis,2695
+dexloxiglumide,2696
+indacaterol,2697
+odanacatib,2698
+grazoprevir,2699
+velpatasvir,2700
+vinflunine,2701
+voxilaprevir,2702
+liotrix,2703
+nabiximols,2704
+prenylamine,2705
+fluspirilene,2706
+nilvadipine,2707
+eperisone,2708
+otilonium,2709
+tianeptine,2710
+cortisone acetate,2711
+paramethasone,2712
+fluprednisolone,2713
+meprednisone,2714
+melengestrol,2715
+prednylidene,2716
+clotiazepam,2717
+banoxantrone,2718
+clomethiazole,2719
+ketobemidone,2720
+zotepine,2721
+6-o-benzylguanine,2722
+paramethadione,2723
+lobeglitazone,2724
+netoglitazone,2725
+rivoglitazone,2726
+ciglitazone,2727
+balaglitazone,2728
+levomenthol,2729
+tasosartan,2730
+cyclandelate,2731
+seletracetam,2732
+nylidrin,2733
+dotarizine,2734
+tranilast,2735
+pinaverium,2736
+aranidipine,2737
+azelnidipine,2738
+cilnidipine,2739
+darodipine,2740
+lacidipine,2741
+manidipine,2742
+niludipine,2743
+carboxyamidotriazole,2744
+naftopidil,2745
+tetrahydropalmatine,2746
+vinpocetine,2747
+bencyclane,2748
+lidoflazine,2749
+caroverine,2750
+win 55212-2,2751
+fish oil,2752
+bictegravir,2753
+dexverapamil,2754
+niguldipine,2755
+emopamil,2756
+lomerizine,2757
+tetrandrine,2758
+dexniguldipine,2759
+ebastine,2760
+hydrocortisone butyrate,2761
+remdesivir,2762
+levacetylmethadol,2763
+prednisolone phosphate,2764
+hydrocortisone phosphate,2765
+trimethadione,2766
+seratrodast,2767
+dexamethasone acetate,2768
+st. john's wort,2769
+indalpine,2770
+fosnetupitant,2771
+beclomethasone dipropionate,2772
+adinazolam,2773
+clobetasol propionate,2774
+desoxycorticosterone pivalate,2775
+pranlukast,2776
+5-androstenedione,2777
+prazepam,2778
+vanoxerine,2779
+methaqualone,2780
+rifalazil,2781
+he3286,2782
+7-ethyl-10-hydroxycamptothecin,2783
+laquinimod,2784
+chenodeoxycholic acid,2785
+desoxycorticosterone acetate,2786
+taurochenodeoxycholic acid,2787
+fluprednidene,2788
+fluocortolone,2789
+brotizolam,2790
+esterified estrogens,2791
+dihydro-alpha-ergocryptine,2792
+dexamethasone isonicotinate,2793
+tocofersolan,2794
+"1,2-benzodiazepine",2795
+samidorphan,2796
+midecamycin,2797
+umifenovir,2798
+piperaquine,2799
+mometasone furoate,2800
+hydrocortisone succinate,2801
+betamethasone phosphate,2802
+prednisolone acetate,2803
+danoprevir,2804
+tezacaftor,2805
+trilostane,2806
+cortivazol,2807
+cloprednol,2808
+entrectinib,2809
+elexacaftor,2810
+enfortumab vedotin,2811
+darolutamide,2812
+lumateperone,2813
+rimegepant,2814
+voclosporin,2815
+lysergic acid diethylamide,2816
+dihydroergocornine,2817
+dihydroergocristine,2818
+dihydroergocryptine,2819
+nicergoline,2820
+methylergometrine,2821
+ergoloid mesylate,2822
+ergometrine,2823
+terguride,2824
+rifamycin,2825
+rifampicin,2826
+tisotumab vedotin,2827
+somatrogon,2828
+nirmatrelvir,2829
+levoketoconazole,2830
+roxadustat,2831
+mavacamten,2832
+valoctocogene roxaparvovec,2833
+futibatinib,2834
+mirvetuximab soravtansine,2835
+adagrasib,2836
+interferon alfa-n1,2837
+peginterferon alfa-2b,2838
+muromonab,2839
+ibritumomab tiuxetan,2840
+alefacept,2841
+efalizumab,2842
+antithymocyte immunoglobulin (rabbit),2843
+daclizumab,2844
+raltitrexed,2845
+tioguanine,2846
+altretamine,2847
+stepronin,2848
+castanospermine,2849
+2-methoxyethanol,2850
+brequinar,2851
+interferon alfa,2852
+gallium nitrate,2853
+briakinumab,2854
+human interferon omega-1,2855
+abetimus,2856
+peginterferon beta-1a,2857
+antilymphocyte immunoglobulin (horse),2858
+ixekizumab,2859
+pirarubicin,2860
+peficitinib,2861
+sirukumab,2862
+mizoribine,2863
+gusperimus,2864
+cepeginterferon alfa-2b,2865
+trofosfamide,2866
+doxifluridine,2867
+deoxyspergualin,2868
+acteoside,2869
+hypericin,2870
+9-(n-methyl-l-isoleucine)-cyclosporin a,2871
+begelomab,2872
+risankizumab,2873
+rozanolixizumab,2874
+bleselumab,2875
+adalimumab,2876
+afelimomab,2877
+fluocortin,2878
+fluperolone,2879
+fluclorolone,2880
+lexacalcitol,2881
+inolimomab,2882
+fasitibant,2883
+sipuleucel-t,2884
+corticorelin ovine triflutate,2885
+isoetharine,2886
+orciprenaline,2887
+bitolterol,2888
+isoprenaline,2889
+arbutamine,2890
+pirbuterol,2891
+ephedra sinica root,2892
+protokylol,2893
+hexoprenaline,2894
+racepinephrine,2895
+pf-00610355,2896
+abediterol,2897
+batefenterol,2898
+carbimazole,2899
+somatotropin,2900
+dihydrotachysterol,2901
+alfacalcidol,2902
+seocalcitol,2903
+inecalcitol,2904
+becocalcidiol,2905
+eldecalcitol,2906
+"1alpha,24s-dihydroxyvitamin d2",2907
+elocalcitol,2908
+maxacalcitol,2909
+1alpha-hydroxyvitamin d5,2910
+previtamin d(3),2911
+fluoxymesterone,2912
+stanozolol,2913
+glpg-0492,2914
+aminosalicylic acid,2915
+dersalazine,2916
+phenyl aminosalicylate,2917
+methyl salicylate,2918
+aloxiprin,2919
+thiosalicylic acid,2920
+taxifolin,2921
+polmacoxib,2922
+ebselen,2923
+flurbiprofen axetil,2924
+bambuterol,2925
+profenamine,2926
+hexafluronium,2927
+demecarium,2928
+ambenonium,2929
+ginkgo biloba,2930
+"1,10-phenanthroline",2931
+huperzine a,2932
+phenserine,2933
+regramostim,2934
+aprotinin,2935
+metrifonate,2936
+acotiamide,2937
+methanesulfonyl fluoride,2938
+tyrothricin,2939
+ipidacrine,2940
+distigmine,2941
+tretamine,2942
+posiphen,2943
+methylphosphinic acid,2944
+triflupromazine,2945
+benzoic acid,2946
+phenylbutyric acid,2947
+phenylacetic acid,2948
+g17dt,2949
+pev3a,2950
+ingn 225,2951
+rindopepimut,2952
+srp 299,2953
+gi-5005,2954
+vitespen,2955
+tg4010,2956
+anthrax immune globulin human,2957
+"rabies virus inactivated antigen, b",2958
+rotavirus vaccine,2959
+"rabies virus inactivated antigen, a",2960
+measles virus vaccine live attenuated,2961
+clostridium tetani toxoid antigen (formaldehyde inactivated),2962
+corynebacterium diphtheriae toxoid antigen (formaldehyde inactivated),2963
+influenza a virus a/california/7/2009 x-181 (h1n1) antigen (propiolactone inactivated),2964
+japanese encephalitis virus strain sa 14-14-2 antigen (formaldehyde inactivated),2965
+influenza b virus b/brisbane/60/2008 antigen (formaldehyde inactivated),2966
+typhoid vi polysaccharide vaccine,2967
+hepatitis a vaccine,2968
+haemophilus influenzae type b strain 20752 capsular polysaccharide tetanus toxoid conjugate antigen,2969
+influenza a virus a/brisbane/59/2007(h1n1) hemagglutinin antigen (propiolactone inactivated),2970
+influenza b virus b/brisbane/60/2008 hemagglutinin antigen (propiolactone inactivated),2971
+influenza a virus a/california/7/2009 x-181 (h1n1) hemagglutinin antigen (propiolactone inactivated),2972
+influenza b virus b/brisbane/60/2008 antigen (propiolactone inactivated),2973
+"rabies immune globulin, human",2974
+hepatitis b vaccine (recombinant),2975
+bacillus calmette-guerin substrain danish 1331 live antigen,2976
+tecemotide,2977
+varicella zoster vaccine (recombinant),2978
+influenza a virus a/victoria/210/2009 x-187 (h3n2) hemagglutinin antigen (formaldehyde inactivated),2979
+influenza b virus b/brisbane/60/2008 hemagglutinin antigen (formaldehyde inactivated),2980
+influenza a virus a/california/7/2009 (h1n1) live (attenuated) antigen,2981
+influenza a virus a/victoria/210/2009 x-187 (h3n2) antigen (formaldehyde inactivated),2982
+influenza a virus a/perth/16/2009 (h3n2) live (attenuated) antigen,2983
+influenza a virus a/uruguay/716/2007(h3n2) antigen (propiolactone inactivated),2984
+influenza a virus a/brisbane/59/2007(h1n1) antigen (propiolactone inactivated),2985
+"smallpox (vaccinia) vaccine, live",2986
+pertussis vaccine,2987
+yersinia pestis 195/p antigen (formaldehyde inactivated),2988
+modified vaccinia ankara,2989
+"ebola zaire vaccine (live, attenuated)",2990
+moderna covid-19 vaccine,2991
+nandrolone phenpropionate,2992
+19-norandrostenedione,2993
+bolasterone,2994
+1-testosterone,2995
+4-hydroxytestosterone,2996
+clostebol,2997
+boldenone,2998
+bolandiol,2999
+calusterone,3000
+16-bromoepiandrosterone,3001
+fluasterone,3002
+epitestosterone,3003
+testosterone succinate,3004
+nandrolone decanoate,3005
+mibolerone,3006
+atamestane,3007
+mesterolone,3008
+metenolone,3009
+testosterone enantate benzilic acid hydrazone,3010
+trestolone acetate,3011
+testosterone decanoate,3012
+testosterone isocaproate,3013
+testosterone phenylpropionate,3014
+prasterone enantate,3015
+stanolone,3016
+mifamurtide,3017
+ethotoin,3018
+liothyronine i-131,3019
+neocitrullamon,3020
+tiratricol,3021
+"thyroid, porcine",3022
+insulin human,3023
+insulin pork,3024
+acetohexamide,3025
+gliquidone,3026
+glisoxepide,3027
+insulin aspart,3028
+insulin glulisine,3029
+glymidine,3030
+buformin,3031
+voglibose,3032
+nn344,3033
+amg-222,3034
+bisegliptin,3035
+gosogliptin,3036
+glibornuride,3037
+benfluorex,3038
+albiglutide,3039
+insulin beef,3040
+insulin peglispro,3041
+insulin tregopil,3042
+ipragliflozin,3043
+dutogliptin,3044
+allicin,3045
+tofogliflozin,3046
+teneligliptin,3047
+omarigliptin,3048
+carmegliptin,3049
+gemigliptin,3050
+anagliptin,3051
+evogliptin,3052
+sotagliflozin,3053
+remogliflozin etabonate,3054
+carbutamide,3055
+guar gum,3056
+metahexamide,3057
+taspoglutide,3058
+englitazone,3059
+gastric inhibitory polypeptide,3060
+acetyldigitoxin,3061
+deslanoside,3062
+lanatoside c,3063
+gitoformate,3064
+dirithromycin,3065
+candicidin,3066
+epothilone d,3067
+patupilone,3068
+6-deoxyerythronolide b,3069
+kos-1584,3070
+spiramycin,3071
+ridaforolimus,3072
+ave9633,3073
+coltuximab ravtansine,3074
+mitemcinal,3075
+solithromycin,3076
+kitasamycin,3077
+carbomycin,3078
+doramectin,3079
+eprinomectin,3080
+selamectin,3081
+tildipirosin,3082
+tilmicosin,3083
+tylosin,3084
+tylvalosin,3085
+bryostatin 1,3086
+lorvotuzumab mertansine,3087
+epofolate,3088
+sagopilone,3089
+miocamycin,3090
+flurithromycin,3091
+rokitamycin,3092
+mepartricin,3093
+chlorotrianisene,3094
+tibolone,3095
+polyestradiol phosphate,3096
+promestriene,3097
+methallenestril,3098
+epimestrol,3099
+moxestrol,3100
+biochanin a,3101
+formononetin,3102
+durvalumab,3103
+methacholine,3104
+lonapegsomatropin,3105
+allogeneic processed thymus tissue,3106
+menthyl salicylate,3107
+glycol salicylate,3108
+"tick-borne encephalitis vaccine (whole virus, inactivated)",3109
+nuvaxovid,3110
+mumps virus strain b level jeryl lynn live antigen,3111
+"bordetella pertussis toxoid antigen (formaldehyde, glutaraldehyde inactivated)",3112
+astrazeneca covid-19 vaccine,3113
+mosunetuzumab,3114
+insulin argine,3115
+janssen covid-19 vaccine,3116
+spesolimab,3117
+deucravacitinib,3118
+teprotumumab,3119
+anifrolumab,3120
+bimekizumab,3121
+filgotinib,3122
+luseogliflozin,3123
+"meningococcal (groups a, c, y and w-135) oligosaccharide diphtheria crm197 conjugate vaccine",3124
+famtozinameran,3125
+acetophenazine,3126
+periciazine,3127
+acepromazine,3128
+thioproperazine,3129
+bl-1020,3130
+cyamemazine,3131
+propiopromazine,3132
+butaperazine,3133
+chlorproethazine,3134
+thiazinam,3135
+dixyrazine,3136
+perphenazine enanthate,3137
+doconexent,3138
+sitaxentan,3139
+vintafolide,3140
+vincamine,3141
+dovitinib,3142
+curcumin sulfate,3143
+sulfamethizole,3144
+avasimibe,3145
+sulfamoxole,3146
+diacerein,3147
+rhein,3148
+acetyl sulfisoxazole,3149
+tmc-310911,3150
+felbinac,3151
+trolamine salicylate,3152
+flunoxaprofen,3153
+bufexamac,3154
+feprazone,3155
+bendazac,3156
+pranoprofen,3157
+ulobetasol,3158
+rimexolone,3159
+clobetasone,3160
+formocortal,3161
+halometasone,3162
+hydrocortisone aceponate,3163
+hydrocortisone probutate,3164
+hydrocortisone valerate,3165
+loteprednol,3166
+prednisolone hemisuccinate,3167
+fluprednidene acetate,3168
+methylprednisolone aceponate,3169
+methylprednisolone hemisuccinate,3170
+prednisone acetate,3171
+clocortolone acetate,3172
+melengestrol acetate,3173
+halazepam,3174
+camazepam,3175
+delorazepam,3176
+ethyl loflazepate,3177
+cloxazolam,3178
+fludiazepam,3179
+cinolazepam,3180
+pinazepam,3181
+loprazolam,3182
+doxefazepam,3183
+lormetazepam,3184
+nordazepam,3185
+oxazepam acetate,3186
+cinazepam,3187
+bentazepam,3188
+3-[4-(1-formylpiperazin-4-yl)-benzylidenyl]-2-indolinone,3189
+geldanamycin,3190
+pd173955,3191
+radicicol,3192
+cediranib,3193
+vatalanib,3194
+motesanib,3195
+glesatinib,3196
+lestaurtinib,3197
+piceatannol,3198
+saracatinib,3199
+crenolanib,3200
+flumatinib,3201
+tesevatinib,3202
+savolitinib,3203
+foretinib,3204
+radotinib,3205
+fluocortolone pivalate,3206
+fluocortolone caproate,3207
+desoxycortone,3208
+aminohippuric acid,3209
+cyclic adenosine monophosphate,3210
+glutaric acid,3211
+ellagic acid,3212
+silibinin,3213
+abafungin,3214
+ravuconazole,3215
+albaconazole,3216
+bifonazole,3217
+oleandrin,3218
+cymarin,3219
+peruvoside,3220
+clorgiline,3221
+"7,8-dichloro-1,2,3,4-tetrahydroisoquinoline",3222
+hydracarbazine,3223
+benmoxin,3224
+mebanazine,3225
+octamoxin,3226
+pheniprazine,3227
+phenoxypropazine,3228
+pivhydrazine,3229
+safrazine,3230
+caroxazone,3231
+brofaromine,3232
+carbetocin,3233
+nesiritide,3234
+nitrous acid,3235
+pipamperone,3236
+tolazoline,3237
+moxonidine,3238
+mevastatin,3239
+etofibrate,3240
+acipimox,3241
+ciprofibrate,3242
+ubidecarenone,3243
+mebeverine,3244
+simfibrate,3245
+ronifibrate,3246
+aluminium clofibrate,3247
+clofibride,3248
+metharbital,3249
+phensuximide,3250
+progabide,3251
+phenacemide,3252
+7-nitroindazole,3253
+valpromide,3254
+remacemide,3255
+deramciclane,3256
+tramiprosate,3257
+gaboxadol,3258
+sulthiame,3259
+ifenprodil,3260
+beclamide,3261
+paraldehyde,3262
+etiracetam,3263
+carisbamate,3264
+pheneturide,3265
+phenibut,3266
+ethadione,3267
+cannabidivarin,3268
+jnj-26489112,3269
+remikiren,3270
+bethanidine,3271
+guanadrel,3272
+candoxatril,3273
+cryptenamine,3274
+deserpidine,3275
+dexpropranolol,3276
+"n1,n11-diethylnorspermine",3277
+trimazosin,3278
+rauwolfia serpentina root,3279
+angiotensin 1-7,3280
+bq-123,3281
+urapidil,3282
+guanoxan,3283
+linsidomine,3284
+guanoxabenz,3285
+tolonidine,3286
+endralazine,3287
+cadralazine,3288
+bietaserpine,3289
+guanazodine,3290
+methoserpidine,3291
+guanoclor,3292
+ibudilast,3293
+mirodenafil,3294
+dasiglucagon,3295
+daidzin,3296
+naringenin,3297
+alaproclate,3298
+metaraminol,3299
+methoxamine,3300
+phenmetrazine,3301
+pseudoephedrine,3302
+mephentermine,3303
+mmda,3304
+"2,5-dimethoxy-4-ethylamphetamine",3305
+"4-bromo-2,5-dimethoxyamphetamine",3306
+tenamfetamine,3307
+chlorphentermine,3308
+methylenedioxyethamphetamine,3309
+tetryzoline,3310
+iofetamine i-123,3311
+ritobegron,3312
+tramazoline,3313
+mephedrone,3314
+fenozolone,3315
+methoxyphenamine,3316
+tretoquinol,3317
+gepefrine,3318
+prenalterol,3319
+mefenorex,3320
+"2,5-dimethoxy-4-ethylthioamphetamine",3321
+epicaptopril,3322
+amibegron,3323
+solabegron,3324
+adrafinil,3325
+amitraz,3326
+atipamezole,3327
+ractopamine,3328
+tulobuterol,3329
+dopexamine,3330
+higenamine,3331
+reproterol,3332
+norfenefrine,3333
+oxyfedrine,3334
+rimiterol,3335
+quinoline yellow ws,3336
+propiomazine,3337
+nitrous oxide,3338
+medetomidine,3339
+romifidine,3340
+detomidine,3341
+diethyl ether,3342
+succinic acid,3343
+avibactam,3344
+relebactam,3345
+betahistine,3346
+isometheptene,3347
+levonordefrin,3348
+lithium hydroxide,3349
+setiptiline,3350
+aptazapine,3351
+diphenoxylate,3352
+dezocine,3353
+methadyl acetate,3354
+dihydroetorphine,3355
+bezitramide,3356
+dimethyltryptamine,3357
+etorphine,3358
+dextromoramide,3359
+carfentanil,3360
+alphacetylmethadol,3361
+dihydromorphine,3362
+amineptine,3363
+ykp-1358,3364
+methylthioninium,3365
+cinitapride,3366
+dpdpe,3367
+lofentanil,3368
+oxaprotiline,3369
+normethadone,3370
+mosapride,3371
+vabicaserin,3372
+m-chlorophenylpiperazine,3373
+mk-212,3374
+gepirone,3375
+piritramide,3376
+felcisetrag,3377
+tandospirone,3378
+eltoprazine,3379
+opipramol,3380
+amitriptylinoxide,3381
+alphaprodine,3382
+dibenzepin,3383
+quinupramine,3384
+melitracen,3385
+lofepramine,3386
+nicomorphine,3387
+iprindole,3388
+bifemelane,3389
+phenoperidine,3390
+phenazocine,3391
+imipramine oxide,3392
+tilidine,3393
+valproate bismuth,3394
+"n-(2-hydroxybenzyl)-2,5-dimethoxy-4-cyanophenylethylamine",3395
+pizotifen,3396
+tedizolid phosphate,3397
+osanetant,3398
+bifeprunox,3399
+amperozide,3400
+brilaroxazine,3401
+azaperone,3402
+ecopipam,3403
+bromperidol,3404
+benperidol,3405
+prothipendyl,3406
+clothiapine,3407
+oxypertine,3408
+veralipride,3409
+trifluperidol,3410
+moperone,3411
+thiopropazate,3412
+fluanisone,3413
+mosapramine,3414
+clopenthixol,3415
+levosulpiride,3416
+cirazoline,3417
+naluzotan,3418
+tetrahydrocannabivarin,3419
+piclozotan,3420
+diamorphine,3421
+ecgonine,3422
+desomorphine,3423
+drotebanol,3424
+methylecgonine,3425
+"carfentanil, c-11",3426
+lipegfilgrastim,3427
+ridogrel,3428
+andrographolide,3429
+ifetroban,3430
+butylphthalide,3431
+hydroxytyrosol,3432
+ramatroban,3433
+picotamide,3434
+buflomedil,3435
+relcovaptan,3436
+maritime pine extract,3437
+sarpogrelate,3438
+bufotenine,3439
+serdexmethylphenidate,3440
+aniline,3441
+"7,9-dimethylguanine",3442
+7-deazaguanine,3443
+valomaciclovir,3444
+3-isobutyl-1-methyl-7h-xanthine,3445
+uric acid,3446
+furafylline,3447
+pcs-499,3448
+pirlimycin,3449
+hyperforin,3450
+posizolid,3451
+ataluren,3452
+ginsenoside rb1,3453
+echinacea,3454
+hydrocortamate,3455
+aprobarbital,3456
+quinupristin,3457
+dalfopristin,3458
+vapreotide,3459
+gpi-1485,3460
+albinterferon alfa-2b,3461
+interferon alfa-2c,3462
+somatrem,3463
+albusomatropin,3464
+somatropin pegol,3465
+clinafloxacin,3466
+trans-2-hydroxycinnamic acid,3467
+caprylic acid,3468
+pradigastat,3469
+favipiravir,3470
+risdiplam,3471
+tripelennamine,3472
+oxamniquine,3473
+1-(2-phenylethyl)-4-phenyl-4-acetoxypiperidine,3474
+black cohosh,3475
+segesterone acetate,3476
+tetrahydrofolic acid,3477
+"(6s)-5,6,7,8-tetrahydrofolic acid",3478
+triglu-5-formyl-tetrahydrofolate,3479
+(6r)-folinic acid,3480
+5-methyltetrahydrofolic acid,3481
+levomefolic acid,3482
+biricodar,3483
+zosuquidar,3484
+tariquidar,3485
+laniquidar,3486
+ont-093,3487
+d-levofloxacin,3488
+pimagedine,3489
+benziodarone,3490
+5-fluorouridine,3491
+asparaginase escherichia coli,3492
+asparaginase erwinia chrysanthemi,3493
+lanthanum iii cation,3494
+zinc trihydroxide,3495
+zinc substituted heme c,3496
+polaprezinc,3497
+zinc oxide,3498
+zinc citrate,3499
+zinc picolinate,3500
+zinc gluconate,3501
+acetylcysteine zinc,3502
+zinc glycinate,3503
+zinc chloride,3504
+"zinc sulfate, unspecified form",3505
+zinc cation,3506
+ferrous chloride,3507
+iron isomaltoside 1000,3508
+porfimer sodium,3509
+padeliporfin,3510
+trandolaprilat,3511
+moexiprilat,3512
+cilazaprilat,3513
+tipiracil,3514
+25-desacetylrifapentine,3515
+hyaluronidase (ovine),3516
+hyaluronidase (human recombinant),3517
+follitropin,3518
+"3,5-diiodotyrosine",3519
+abaloparatide,3520
+dibromotyrosine,3521
+protirelin,3522
+elcatonin,3523
+benzylthiouracil,3524
+thyrotropin,3525
+ganaxolone,3526
+lenacapavir,3527
+olutasidenib,3528
+bisacodyl,3529
+tolevamer,3530
+linzagolix,3531
+sulfadoxine,3532
+artefenomel,3533
+chlorproguanil,3534
+pyronaridine,3535
+artemotil,3536
+cycloguanil,3537
+sulfanilamide,3538
+tetracosactide,3539
+oxyphenonium,3540
+metixene,3541
+oxyphencyclimine,3542
+methscopolamine bromide,3543
+tridihexethyl,3544
+anisotropine methylbromide,3545
+homatropine methylbromide,3546
+benzquinamide,3547
+cycrimine,3548
+diphenidol,3549
+isopropamide,3550
+mepenzolate,3551
+hexocyclium,3552
+dimetindene,3553
+dexetimide,3554
+butylscopolamine,3555
+thonzylamine,3556
+oxitropium,3557
+tropatepine,3558
+prifinium,3559
+piperidolate,3560
+benzilone,3561
+difemerine,3562
+phenglutarimide,3563
+mazaticol,3564
+etybenzatropine,3565
+poldine,3566
+bevonium,3567
+rociverine,3568
+bornaprine,3569
+etanautine,3570
+tiemonium iodide,3571
+dihexyverine,3572
+penthienate,3573
+diphemanil,3574
+camylofin,3575
+fenpiverinium,3576
+emetonium iodide,3577
+pipenzolate,3578
+timepidium,3579
+chlorphenoxamine,3580
+lipoic acid,3581
+lucinactant,3582
+ethchlorvynol,3583
+talbutal,3584
+clidinium,3585
+methyprylon,3586
+chlormezanone,3587
+butobarbital,3588
+heptabarbital,3589
+gamma-hydroxybutyric acid,3590
+fencamfamin,3591
+dichloralphenazone,3592
+difenoxin,3593
+chlorhexadol,3594
+cathinone,3595
+alverine,3596
+s-ethylisothiourea,3597
+domoic acid,3598
+oxitriptan,3599
+phenethylamine,3600
+aniracetam,3601
+cilansetron,3602
+pagoclone,3603
+renzapride,3604
+apd791,3605
+naronapride,3606
+prx-08066,3607
+gantacurium,3608
+tolperisone,3609
+ocinaplon,3610
+adipiplon,3611
+dextofisopam,3612
+saredutant,3613
+fospropofol,3614
+triclofos,3615
+mebutamate,3616
+tofisopam,3617
+arbaclofen placarbil,3618
+etifoxine,3619
+captodiame,3620
+benzoctamine,3621
+benactyzine,3622
+sodium oxybate,3623
+edivoxetine,3624
+nisoxetine,3625
+lortalamine,3626
+talopram,3627
+iproclozide,3628
+alfaxalone,3629
+tricaine,3630
+zolazepam,3631
+thiocolchicoside,3632
+psilocybin,3633
+iferanserin,3634
+lanicemine,3635
+idalopirdine,3636
+imagabalin,3637
+eplivanserin,3638
+cerlapirdine,3639
+eltanolone,3640
+salvinorin a,3641
+esreboxetine,3642
+orvepitant,3643
+azd-3043,3644
+indiplon,3645
+pivagabine,3646
+nefiracetam,3647
+valnoctamide,3648
+medifoxamine,3649
+apronalide,3650
+propanidid,3651
+proxibarbal,3652
+febarbamate,3653
+tetrazepam,3654
+pyrithyldione,3655
+deanol,3656
+phenprobamate,3657
+styramate,3658
+bromisoval,3659
+vinbarbital,3660
+acetylglycinamide chloral hydrate,3661
+fenyramidol,3662
+oxaflozane,3663
+emepronium,3664
+mebicar,3665
+gedocarnil,3666
+iprazochrome,3667
+emylcamate,3668
+allobarbital,3669
+naftidrofuryl,3670
+oxiracetam,3671
+fabomotizole,3672
+pridinol,3673
+hexapropymate,3674
+niaprazine,3675
+vinyl ether,3676
+methylpentynol,3677
+cyclobarbital,3678
+fazadinium bromide,3679
+mephenoxalone,3680
+vinylbital,3681
+reposal,3682
+carbromal,3683
+cyclopropane,3684
+mrk-409,3685
+pyrazolam,3686
+lanoteplase,3687
+slv319,3688
+taranabant,3689
+gw842166,3690
+ajulemic acid,3691
+ibipinabant,3692
+surinabant,3693
+palmidrol,3694
+methdilazine,3695
+cephalosporin analog,3696
+cephalosporin c,3697
+deacetoxycephalosporin c,3698
+levopropoxyphene,3699
+sage oil,3700
+borage oil,3701
+phenothiazine,3702
+gamolenic acid,3703
+desmethylsertraline,3704
+centella asiatica,3705
+benzhydrocodone,3706
+nonoxynol-9,3707
+belladonna,3708
+bismuth subcarbonate,3709
+meclocycline,3710
+human interferon beta,3711
+interferon kappa,3712
+interferon gamma,3713
+garlic,3714
+bioallethrin,3715
+elivaldogene autotemcel,3716
+thiosulfuric acid,3717
+glycerin,3718
+ademetionine,3719
+vayarin,3720
+tioconazole,3721
+"sar9, met (o2)11-substance p",3722
+technetium tc-99m tilmanocept,3723
+"dihydro-2-thioxo-5-((5-(2-(trifluoromethyl)phenyl)-2-furanyl)methyl)-4,6(1h,5h)-pyrimidinedione",3724
+carbamoylcholine,3725
+ngx267,3726
+epibatidine,3727
+xanomeline,3728
+cetuximab,3729
+denileukin diftitox,3730
+pipobroman,3731
+uracil mustard,3732
+aminolevulinic acid,3733
+7-hydroxystaurosporine,3734
+hadacidin,3735
+5'-s-methyl-5'-thioadenosine,3736
+fumagillin,3737
+sparfosic acid,3738
+2-(4-chlorophenyl)-5-quinoxalinecarboxamide,3739
+piritrexim,3740
+rhodamine 6g,3741
+batimastat,3742
+"3,4-dihydroxybenzoic acid",3743
+fotemustine,3744
+sparsomycin,3745
+tretazicar,3746
+trichostatin a,3747
+monastrol,3748
+nebularine,3749
+afimoxifene,3750
+metoprine,3751
+halofuginone,3752
+thymalfasin,3753
+galiximab,3754
+sitimagene ceradenovec,3755
+ranpirnase,3756
+epratuzumab,3757
+tipifarnib,3758
+troxacitabine,3759
+oregovomab,3760
+satraplatin,3761
+amonafide,3762
+tetrathiomolybdate,3763
+labetuzumab,3764
+elsamitrucin,3765
+bavituximab,3766
+ecabet,3767
+talactoferrin alfa,3768
+motexafin gadolinium,3769
+pelitinib,3770
+alanosine,3771
+ramucirumab,3772
+farletuzumab,3773
+veltuzumab,3774
+palifosfamide,3775
+trabedersen,3776
+oglufanide,3777
+irofulven,3778
+ct-011,3779
+transcrocetinate,3780
+glembatumumab vedotin,3781
+aldoxorubicin,3782
+av-412,3783
+filanesib,3784
+olaratumab,3785
+rubitecan,3786
+plevitrexed,3787
+paclitaxel trevatide,3788
+imo-2055,3789
+nimotuzumab,3790
+pixantrone,3791
+seliciclib,3792
+exisulind,3793
+amrubicin,3794
+sapacitabine,3795
+annamycin,3796
+endostatin,3797
+tezacitabine,3798
+semaxanib,3799
+squalamine,3800
+porfiromycin,3801
+mln576,3802
+catumaxomab,3803
+volociximab,3804
+ginsenoside c,3805
+veliparib,3806
+efaproxiral,3807
+tnp-470,3808
+radium ra 223 dichloride,3809
+carmofur,3810
+finafloxacin,3811
+roquinimex,3812
+masitinib,3813
+zorubicin,3814
+temoporfin,3815
+conatumumab,3816
+dactolisib,3817
+rabusertib,3818
+ortataxel,3819
+treosulfan,3820
+2-chloroethyl-3-sarcosinamide-1-nitrosourea,3821
+ilorasertib,3822
+epacadostat,3823
+endostar,3824
+tremelimumab,3825
+gsk-2636771,3826
+talaporfin,3827
+acridine carboxamide,3828
+efatutazone,3829
+rociletinib,3830
+guadecitabine,3831
+rilotumumab,3832
+vosaroxin,3833
+broxuridine,3834
+naquotinib,3835
+trebananib,3836
+volasertib,3837
+anecortave,3838
+vesnarinone,3839
+mafosfamide,3840
+lcl-161,3841
+taselisib,3842
+namitecan,3843
+duligotuzumab,3844
+rigosertib,3845
+cordycepin,3846
+binetrakin,3847
+exatecan,3848
+zalutumumab,3849
+lurtotecan,3850
+krn-7000,3851
+cg-200745,3852
+obp-801,3853
+navitoclax,3854
+bizelesin,3855
+indirubin,3856
+merestinib,3857
+r-306465,3858
+sulforaphane,3859
+belotecan,3860
+taurolidine,3861
+molgramostim,3862
+oltipraz,3863
+pyrazoloacridine,3864
+fosbretabulin,3865
+dacetuzumab,3866
+apaziquone,3867
+combretastatin,3868
+onapristone,3869
+zelavespib,3870
+beloranib,3871
+soblidotin,3872
+salirasib,3873
+phenethyl isothiocyanate,3874
+methylselenocysteine,3875
+intetumumab,3876
+dolastatin 10,3877
+etanidazole,3878
+lometrexol,3879
+ecromeximab,3880
+prednimustine,3881
+buthionine sulfoximine,3882
+quizartinib,3883
+indole-3-carbinol,3884
+fiacitabine,3885
+nolatrexed,3886
+mitolactol,3887
+pinometostat,3888
+didox,3889
+mitoguazone,3890
+penclomedine,3891
+rebastinib,3892
+tocladesine,3893
+liarozole,3894
+x-396,3895
+olmutinib,3896
+daidzein,3897
+tiazofurine,3898
+triaziquone,3899
+mannosulfan,3900
+etoglucid,3901
+edrecolomab,3902
+mitobronitol,3903
+semustine,3904
+carboquone,3905
+vorozole,3906
+paclitaxel poliglumex,3907
+oblimersen,3908
+ranimustine,3909
+iniparib,3910
+tisagenlecleucel,3911
+talimogene laherparepvec,3912
+axicabtagene ciloleucel,3913
+toyocamycin,3914
+dofequidar,3915
+cinnamaldehyde,3916
+combretastatin a4,3917
+tagraxofusp,3918
+rivoceranib,3919
+azd-5991,3920
+dordaviprone,3921
+ensartinib,3922
+human interleukin-2,3923
+lintuzumab,3924
+bermekimab,3925
+etirinotecan pegol,3926
+trastuzumab deruxtecan,3927
+tafasitamab,3928
+nuc-1031,3929
+voruciclib,3930
+krn-5500,3931
+perillyl alcohol,3932
+tefinostat,3933
+sor-c13,3934
+pidilizumab,3935
+nanatinostat,3936
+tallimustine,3937
+edodekin alfa,3938
+droloxifene,3939
+brexucabtagene autoleucel,3940
+abagovomab,3941
+magrolimab,3942
+nazartinib,3943
+pegylated recombinant human arginase i,3944
+inbakicept,3945
+lisocabtagene maraleucel,3946
+idecabtagene vicleucel,3947
+bortezomib d-mannitol,3948
+gramicidin d,3949
+clavulanic acid,3950
+spectinomycin,3951
+virginiamycin m1,3952
+maltotetraose,3953
+fosmidomycin,3954
+ge-2270a,3955
+ubenimex,3956
+aurodox,3957
+streptolydigin,3958
+ramoplanin,3959
+teicoplanin,3960
+sulfameter,3961
+chloramphenicol succinate,3962
+fusafungine,3963
+enviomycin,3964
+avilamycin,3965
+bambermycins,3966
+efrotomycin,3967
+florfenicol,3968
+gamithromycin,3969
+lasalocid,3970
+marbofloxacin,3971
+narasin,3972
+tiamulin,3973
+tulathromycin a,3974
+ceftiofur,3975
+maduramicin,3976
+salinomycin,3977
+isatoic anhydride,3978
+epetraborole,3979
+lanopepden,3980
+radezolid,3981
+protionamide,3982
+amithiozone,3983
+biapenem,3984
+lcb01-0371,3985
+dibekacin,3986
+micronomicin,3987
+azidamfenicol,3988
+bekanamycin,3989
+pristinamycin,3990
+decamethoxine,3991
+sulfamethoxypyridazine,3992
+malacidin a,3993
+malacidin b,3994
+cefamandole nafate,3995
+ceftobiprole medocaril,3996
+murepavadin,3997
+ala-geninthiocin,3998
+sulfametopyrazine,3999
+sulfacytine,4000
+hydroxyfasudil,4001
+5-(2-methylpiperazine-1-sulfonyl)isoquinoline,4002
+clorsulon,4003
+sulfachlorpyridazine,4004
+sulfaethoxypyridazine,4005
+sulfanitran,4006
+sulfaquinoxaline,4007
+setrobuvir,4008
+chlorsulfaquinoxaline,4009
+sulfadicramide,4010
+phthalylsulfathiazole,4011
+sulfaisodimidine,4012
+sulfaperin,4013
+sulfametomidine,4014
+sulfatolamide,4015
+sulfamazone,4016
+succinylsulfathiazole,4017
+sulfathiourea,4018
+sulfaguanidine,4019
+sulfametrole,4020
+peppermint oil,4021
+piperine,4022
+glycocholic acid,4023
+tauroursodeoxycholic acid,4024
+bamet-ud2,4025
+cis-diamminechlorocholylglycinateplatinum(ii),4026
+dehydrocholic acid,4027
+hyodeoxycholic acid,4028
+aramchol,4029
+ox bile extract,4030
+human immunoglobulin g,4031
+indium in-111 satumomab pendetide,4032
+digoxin immune fab (ovine),4033
+technetium tc-99m arcitumomab,4034
+pexelizumab,4035
+bectumomab,4036
+ign311,4037
+adecatumumab,4038
+matuzumab,4039
+fontolizumab,4040
+cr002,4041
+rozrolimupab,4042
+girentuximab,4043
+xtl-001,4044
+nav 1800,4045
+otelixizumab,4046
+amg 108,4047
+iratumumab,4048
+enokizumab,4049
+pro-542,4050
+tnx-901,4051
+ri 624,4052
+stamulumab,4053
+leronlimab,4054
+iph 2101,4055
+tb-402,4056
+imc-1c11,4057
+eldelumab,4058
+lumiliximab,4059
+clenoliximab,4060
+biib015,4061
+sonepcizumab,4062
+motavizumab,4063
+carotuximab,4064
+xmab 2513,4065
+lucatumumab,4066
+siplizumab,4067
+apolizumab,4068
+sibrotuzumab,4069
+bivatuzumab,4070
+lerdelimumab,4071
+lexatumumab,4072
+teplizumab,4073
+"tetanus immune globulin, human",4074
+eftrenonacog alfa,4075
+human varicella-zoster immune globulin,4076
+tabalumab,4077
+ficlatuzumab,4078
+figitumumab,4079
+bapineuzumab,4080
+depatuxizumab mafodotin,4081
+onartuzumab,4082
+solanezumab,4083
+lampalizumab,4084
+dalotuzumab,4085
+emibetuzumab,4086
+ublituximab,4087
+ligelizumab,4088
+seribantumab,4089
+landogrozumab,4090
+vadastuximab talirine,4091
+lebrikizumab,4092
+varlilumab,4093
+crenezumab,4094
+gantenerumab,4095
+visilizumab,4096
+urelumab,4097
+patritumab,4098
+fulranumab,4099
+tarextumab,4100
+sotatercept,4101
+gevokizumab,4102
+simtuzumab,4103
+fasinumab,4104
+etrolizumab,4105
+ganitumab,4106
+etaracizumab,4107
+inclacumab,4108
+cixutumumab,4109
+ascrinvacumab,4110
+gs-5745,4111
+vanucizumab,4112
+labetuzumab govitecan,4113
+tanezumab,4114
+ensituximab,4115
+fezakinumab,4116
+dusigitumab,4117
+fresolimumab,4118
+indusatumab vedotin,4119
+bococizumab,4120
+plozalizumab,4121
+mavrilimumab,4122
+blosozumab,4123
+bimagrumab,4124
+tovetumab,4125
+lumretuzumab,4126
+carlumab,4127
+demcizumab,4128
+sifalimumab,4129
+abituzumab,4130
+naptumomab estafenatox,4131
+crotedumab,4132
+concizumab,4133
+depatuxizumab,4134
+rontalizumab,4135
+amatuximab,4136
+clazakizumab,4137
+ozanezumab,4138
+milatuzumab,4139
+robatumumab,4140
+rovalpituzumab tesirine,4141
+namilumab,4142
+racotumomab,4143
+tregalizumab,4144
+olokizumab,4145
+nebacumab,4146
+human cytomegalovirus immune globulin,4147
+sulesomab,4148
+besilesomab,4149
+fanolesomab,4150
+lecanemab,4151
+camrelizumab,4152
+setrusumab,4153
+gancotamab,4154
+anetumab ravtansine,4155
+icrucumab,4156
+codrituzumab,4157
+xentuzumab,4158
+vobarilizumab,4159
+parsatuzumab,4160
+emactuzumab,4161
+bevacizumab zirconium zr-89,4162
+refanezumab,4163
+pamrevlumab,4164
+opicinumab,4165
+dalantercept,4166
+pateclizumab,4167
+gremubamab,4168
+apomab,4169
+ipafricept,4170
+abrilumab,4171
+frovocimab,4172
+tigatuzumab,4173
+telisotuzumab vedotin,4174
+utomilumab,4175
+zolbetuximab,4176
+ponezumab,4177
+asunercept,4178
+suvratoxumab,4179
+mitazalimab,4180
+nemolizumab,4181
+gedivumab,4182
+valanafusp alfa,4183
+sofituzumab vedotin,4184
+istiratumab,4185
+gma-161,4186
+ladiratuzumab vedotin,4187
+tomaralimab,4188
+vesencumab,4189
+pinatuzumab vedotin,4190
+lulizumab pegol,4191
+lorukafusp alfa,4192
+naratuximab emtansine,4193
+zenocutuzumab,4194
+capromab pendetide,4195
+atoltivimab,4196
+maftivimab,4197
+odesivimab,4198
+hepatitis b immune globulin,4199
+human rho(d) immune globulin,4200
+pentaglobin,4201
+efungumab,4202
+foralumab,4203
+indatuximab ravtansine,4204
+olinvacimab,4205
+actoxumab,4206
+volagidemab,4207
+bentracimab,4208
+amivantamab,4209
+"3,5-dinitrocatechol",4210
+protocatechualdehyde,4211
+imdevimab,4212
+casirivimab,4213
+cilgavimab,4214
+tixagevimab,4215
+eflapegrastim,4216
+prostaglandin b2,4217
+prostaglandin g2,4218
+unoprostone,4219
+limaprost,4220
+fenprostalene,4221
+luprostiol,4222
+prostalene,4223
+fluprostenol,4224
+enprostil,4225
+azficel-t,4226
+vasopressin,4227
+secretin porcine,4228
+secretin human,4229
+dantron,4230
+oxyphenisatin,4231
+linaclotide,4232
+polycarbophil,4233
+sodium fluorophosphate,4234
+mineral oil,4235
+carboxymethylcellulose,4236
+docusate,4237
+plantago seed,4238
+castor oil,4239
+sennosides,4240
+lactitol,4241
+pentaerithrityl,4242
+sodium tartrate,4243
+deacetylbisacodyl,4244
+"sodium phosphate, dibasic",4245
+"sodium phosphate, monobasic, unspecified form",4246
+"sodium phosphate, dibasic, unspecified form",4247
+plantago ovata seed,4248
+oxyphenisatin acetate,4249
+konjac mannan,4250
+alloin,4251
+frangula purshiana bark,4252
+polyethylene glycol,4253
+sodium cation,4254
+sulfate ion,4255
+bentoquatam,4256
+aluminum sulfate,4257
+montmorillonite,4258
+aluminum oxide,4259
+senna leaf,4260
+human c1-esterase inhibitor,4261
+conestat alfa,4262
+gluconic acid,4263
+chymotrypsin,4264
+trypsin,4265
+tiracizine,4266
+ethacizine,4267
+hydroquinine,4268
+fosfructose,4269
+hydroquinidine,4270
+oteracil,4271
+iodide i-131,4272
+bunazosin,4273
+erythrityl tetranitrate,4274
+propatyl nitrate,4275
+methylpropylpropanediol dinitrate,4276
+tenitramine,4277
+trolnitrate,4278
+nitrate,4279
+agalsidase alfa,4280
+diphenylpyraline,4281
+phenindamine,4282
+clofedanol,4283
+chloropyramine,4284
+isothipendyl,4285
+dimetotiazine,4286
+gsk-1004723,4287
+deptropine,4288
+tritoqualine,4289
+quifenadine,4290
+gsk-239512,4291
+abt-288,4292
+iobenguane,4293
+glutamic acid,4294
+ferrous ascorbate,4295
+magnesium ascorbate,4296
+orm-12741,4297
+quinagolide,4298
+dihydrexidine,4299
+cimetropium,4300
+etilevodopa,4301
+melevodopa,4302
+budipine,4303
+dexpramipexole,4304
+"4-bromo-2,5-dimethoxyphenethylamine",4305
+racephedrine,4306
+amidephrine,4307
+carphenazine,4308
+alizapride,4309
+bromopride,4310
+as-8112,4311
+jnj-37822681,4312
+clebopride,4313
+fallypride,4314
+eticlopride,4315
+epicriptine,4316
+propylhexedrine,4317
+cedazuridine,4318
+salvia miltiorrhiza root,4319
+paspalum notatum pollen,4320
+cynodon dactylon pollen,4321
+poa annua pollen,4322
+sorghum halepense pollen,4323
+poa pratensis pollen,4324
+festuca pratensis pollen,4325
+dactylis glomerata pollen,4326
+lolium perenne pollen,4327
+phleum pratense pollen,4328
+holcus lanatus pollen,4329
+agrostis gigantea pollen,4330
+anthoxanthum odoratum pollen,4331
+elymus repens pollen,4332
+distichlis spicata pollen,4333
+poa compressa pollen,4334
+phalaris arundinacea pollen,4335
+bouteloua gracilis pollen,4336
+urochloa mutica pollen,4337
+secale cereale pollen,4338
+pascopyrum smithii pollen,4339
+bromus secalinus pollen,4340
+arrhenatherum elatius pollen,4341
+koeleria macrantha pollen,4342
+agrostis stolonifera pollen,4343
+phalaris minor pollen,4344
+lolium perenne subsp. multiflorum pollen,4345
+sorghum bicolor subsp. drummondii pollen,4346
+anileridine,4347
+enibomal,4348
+omega-3 fatty acids,4349
+omega-3-acid ethyl esters,4350
+maxy-g34,4351
+epoetin delta,4352
+muplestim,4353
+balugrastim,4354
+lenograstim,4355
+leridistim,4356
+pegteograstim,4357
+calcium phosphate dihydrate,4358
+carboprost tromethamine,4359
+sorivudine,4360
+befunolol,4361
+hydroxyamphetamine,4362
+chlorphenesin,4363
+mephenesin,4364
+phenoxyethanol,4365
+echothiophate,4366
+gallium ga-68 gozetotide,4367
+piflufolastat f 18,4368
+fluoroestradiol f-18,4369
+enalkiren,4370
+vtp-27999,4371
+iodipamide,4372
+glucarpidase,4373
+flubendazole,4374
+cambendazole,4375
+oxfendazole,4376
+agn-201904,4377
+albendazole oxide,4378
+diprenorphine,4379
+nalorphine,4380
+axelopran,4381
+ly-2456302,4382
+ondelopran,4383
+ginseng,4384
+nefopam,4385
+telotristat,4386
+regadenoson,4387
+dipivefrin,4388
+aluminum chlorohydrate,4389
+dihydroxyaluminum sodium carbonate,4390
+calcipotriol,4391
+tacalcitol,4392
+cobalamin,4393
+influenza a virus a/norway/16606/2021 (h3n2) live (attenuated) antigen,4394
+"dextrose, unspecified form",4395
+grapefruit,4396
+atosiban,4397
+thenalidine,4398
+pimethixene,4399
+talastine,4400
+histapyrrodine,4401
+sequifenadine,4402
+mebhydrolin,4403
+oxomemazine,4404
+hydroxyethylpromethazine,4405
+pyrrobutamine,4406
+nebicapone,4407
+felypressin,4408
+calyculin a,4409
+adrenalone,4410
+ornipressin,4411
+angiotensinamide,4412
+lypressin,4413
+dehydrochloromethyltestosterone,4414
+18-methyl-19-nortestosterone,4415
+formebolone,4416
+methyl-1-testosterone,4417
+5beta-dihydrotestosterone,4418
+stanolone acetate,4419
+"(1,2,6,7-3h)testosterone",4420
+drostanolone propionate,4421
+ornidazole,4422
+propenidazole,4423
+omega-3-carboxylic acids,4424
+"antihemophilic factor, human recombinant",4425
+coagulation factor viia recombinant human,4426
+coagulation factor ix (recombinant),4427
+pantothenic acid,4428
+formic acid,4429
+turoctocog alfa,4430
+fibrinogen human,4431
+catridecacog,4432
+prothrombin,4433
+factor ix complex (human),4434
+susoctocog alfa,4435
+rusalatide acetate,4436
+vatreptacog alfa,4437
+factor xiii (human),4438
+von willebrand factor human,4439
+coagulation factor x human,4440
+coagulation factor vii human,4441
+coagulation factor ix human,4442
+antihemophilic factor human,4443
+kallidinogenase,4444
+trenonacog alfa,4445
+nonacog beta pegol,4446
+moroctocog alfa,4447
+beroctocog alfa,4448
+damoctocog alfa pegol,4449
+turoctocog alfa pegol,4450
+rurioctocog alfa pegol,4451
+olive oil,4452
+declopramide,4453
+ticalopride,4454
+m-hydroxyhippuric acid,4455
+zoalene,4456
+iodohippuric acid,4457
+2-hydroxyestradiol,4458
+echinacoside,4459
+fluorodopa (18f),4460
+enoximone,4461
+aluminum cation,4462
+verinurad,4463
+isobromindione,4464
+cinchophen,4465
+tisopurine,4466
+betibeglogene autotemcel,4467
+l-glutamine,4468
+iclaprim,4469
+brodimoprim,4470
+pafolacianine,4471
+ibopamine,4472
+tenocyclidine,4473
+zucapsaicin,4474
+protoporphyrin,4475
+acetophenone,4476
+motexafin lutetium,4477
+hexaminolevulinate,4478
+rostaporfin,4479
+titanium dioxide,4480
+hemoporfin,4481
+BCG vaccine,4482
